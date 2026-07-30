@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-30T23:23:39",
+  "last_updated": "2026-07-30T23:24:00",
   "html": {
     "https://web.archive.org/web/20260705162130if_/https://twitter.com/QianQian_TwT/status/2073804473240367470": {
       "status": "done",
@@ -5825,7 +5825,7 @@
       "last_updated": "2026-07-30T22:38:43"
     },
     "https://pbs.twimg.com/profile_images/2071630593658425344/X5eek9_Y_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260707132406_twitter_com_QianQian_TwT_status_2074484604992680362.json",
         "20260708005247_twitter_com_QianQian_TwT_status_2074657916066701624.json",
@@ -5835,7 +5835,7 @@
         "20260712192741_twitter_com_QianQian_TwT_status_2076388044316516784.json",
         "20260712201336_twitter_com_QianQian_TwT_status_2076399597270991286.json"
       ],
-      "last_updated": "2026-07-30T22:38:46",
+      "last_updated": "2026-07-30T23:23:49",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260712201336if_/https://pbs.twimg.com/profile_images/2071630593658425344/X5eek9_Y_normal.jpg",
       "miss_count": 1
     },
@@ -6050,9 +6050,9 @@
       "referenced_by": [
         "20260708094827_twitter_com_QianQian_TwT_status_2074792724516237623.json"
       ],
-      "last_updated": "2026-07-30T22:38:46",
+      "last_updated": "2026-07-30T23:23:53",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260708094827if_/https://pbs.twimg.com/profile_images/2062742994164531200/_5gvBEXZ_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg": {
       "status": "done",
@@ -6312,9 +6312,9 @@
       "referenced_by": [
         "20260712191724_twitter_com_QianQian_TwT_status_2076385456925864334.json"
       ],
-      "last_updated": "2026-07-30T22:38:46",
+      "last_updated": "2026-07-30T23:23:57",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260712191724if_/https://pbs.twimg.com/profile_images/2076339340297601024/w6hHYxoX_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg": {
       "status": "done",
@@ -6506,9 +6506,9 @@
       "referenced_by": [
         "20260721200709_twitter_com_QianQian_TwT_status_2079659467164254440.json"
       ],
-      "last_updated": "2026-07-30T22:38:48",
+      "last_updated": "2026-07-30T23:24:00",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260721200709if_/https://pbs.twimg.com/profile_images/2076434200207687680/0W5rdcjV_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2078555310747254785/R5yp0fLO_normal.jpg": {
       "status": "done",
