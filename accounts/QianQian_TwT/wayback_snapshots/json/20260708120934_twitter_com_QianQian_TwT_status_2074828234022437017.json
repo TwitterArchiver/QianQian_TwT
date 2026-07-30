@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074828234022437017",
+    "created_at": "2026-07-08T12:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074828234022437017"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074828234022437017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操 我是不是因為太睏了 我出幻覺了 剛剛看到了睡睡在我旁邊 還聽到他的聲音 然後甚至有那麼一秒鐘 完全不枝豆自己是在哪裏的那種感覺 好恐怖 我靠 不行 我真該睡了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074828234022437017",
+        "created_at": "2026-07-08T12:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074828234022437017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074828234022437017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操 我是不是因為太睏了 我出幻覺了 剛剛看到了睡睡在我旁邊 還聽到他的聲音 然後甚至有那麼一秒鐘 完全不枝豆自己是在哪裏的那種感覺 好恐怖 我靠 不行 我真該睡了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 46,
+          "like_count": 425,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074484520448037309",
+    "created_at": "2026-07-08T06:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074742879105487034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649675831227326466",
+          "start": 0,
+          "username": "xiaohua1286232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074742879105487034",
+    "in_reply_to_user_id": "1649675831227326466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074741614547992737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohua1286232 媽的我這是被msk戴口球了😡😡😡😡😡氣哭氣尿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074484520448037309",
+        "created_at": "2026-07-08T06:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074742879105487034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649675831227326466",
+              "start": 0,
+              "username": "xiaohua1286232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074742879105487034",
+        "in_reply_to_user_id": "1649675831227326466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074741614547992737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohua1286232 媽的我這是被msk戴口球了😡😡😡😡😡氣哭氣尿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649675831227326466",
+        "conversation_id": "2074484520448037309",
+        "created_at": "2026-07-08T06:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074741614547992737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074741614547992737",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074484520448037309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 不爱说话吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 44,
+          "like_count": 288,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-22T07:25:50.000Z",
+        "description": "代购各种精二类药品，自己出思诺思、艾斯唑仑、阿普唑仑、劳拉西泮、氯俏西泮….",
+        "id": "1649675831227326466",
+        "location": "山东",
+        "name": "思诺思（药代）",
+        "pinned_tweet_id": "2074715164872737187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074713360646725632/R5-T3lUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 2,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "xiaohua1286232",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2075438978963239238",
+    "created_at": "2026-07-21T15:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079583508654375224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883935469865766912",
+          "start": 0,
+          "username": "qiouqiou0114"
+        },
+        {
+          "end": 24,
+          "id": "1782410129012670464",
+          "start": 14,
+          "username": "ANDEL0426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079583508654375224",
+    "in_reply_to_user_id": "1883935469865766912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079542324028400062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiouqiou0114 @ANDEL0426 嚇哭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075438978963239238",
+        "created_at": "2026-07-21T15:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079583508654375224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883935469865766912",
+              "start": 0,
+              "username": "qiouqiou0114"
+            },
+            {
+              "end": 24,
+              "id": "1782410129012670464",
+              "start": 14,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079583508654375224",
+        "in_reply_to_user_id": "1883935469865766912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079542324028400062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiouqiou0114 @ANDEL0426 嚇哭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883935469865766912",
+        "conversation_id": "2075438978963239238",
+        "created_at": "2026-07-21T12:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079542324028400062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 24,
+              "id": "1782410129012670464",
+              "start": 14,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079542324028400062",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079541905491419550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT @ANDEL0426 我去我去，那我不得不尝尝了👅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 56,
+          "like_count": 1251,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-27T17:50:00.000Z",
+        "description": "现使用 @qiouqiou9297 084信徒，有少量割，也有正常，死亡极乐主义，04逐渐大龄，板绘、漆艺、花丝修行中，无性别主义，欢迎扩列交友，但精虫上脑直男勿扰，郁后空洞期中，正在慢慢探寻自己的生存意义，努力活下去，活着就是胜利。。吧？\n有不开心欢迎找我聊天哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "qiouqiou9297"
+              }
+            ]
+          }
+        },
+        "id": "1883935469865766912",
+        "location": "厦门",
+        "name": "qiou",
+        "pinned_tweet_id": "2079186906580177163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883939791844388864/QUH5p0DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 155,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "qiouqiou0114",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 非好友不开放任何形式的私信社交\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 374,
+          "like_count": 1837,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

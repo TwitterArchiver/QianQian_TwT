@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2080300228813709375",
+    "created_at": "2026-07-23T15:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080316249456710102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990757095516614657",
+          "start": 0,
+          "username": "guo1988398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080316249456710102",
+    "in_reply_to_user_id": "1990757095516614657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080309701020152270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guo1988398 哈氣了？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2080309695185895424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6-pVRbQAANbjX.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2080300228813709375",
+        "created_at": "2026-07-23T15:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080316249456710102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990757095516614657",
+              "start": 0,
+              "username": "guo1988398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080316249456710102",
+        "in_reply_to_user_id": "1990757095516614657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080309701020152270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guo1988398 哈氣了？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080309695185895424"
+          ]
+        },
+        "author_id": "1990757095516614657",
+        "conversation_id": "2080300228813709375",
+        "created_at": "2026-07-23T15:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080309701020152270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeQCao7ccA",
+              "end": 37,
+              "expanded_url": "https://x.com/guo1988398/status/2080309701020152270/photo/1",
+              "media_key": "3_2080309695185895424",
+              "start": 14,
+              "url": "https://t.co/YeQCao7ccA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080309701020152270",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080300228813709375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT https://t.co/YeQCao7ccA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 56,
+          "like_count": 1533,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-18T12:21:47.000Z",
+        "description": "可以私信我倾诉原生家庭，或者你心情很糟需要安慰",
+        "id": "1990757095516614657",
+        "name": "鲤鱼的梦༺",
+        "pinned_tweet_id": "2075945313345655001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032555170253721600/_hijgiXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 197,
+          "like_count": 2760,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "guo1988398",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2073811033744171495",
+    "created_at": "2026-07-06T07:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074028058135396484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1765185217038635008",
+          "start": 0,
+          "username": "MikiPetya"
+        },
+        {
+          "end": 27,
+          "id": "2047894021457211393",
+          "start": 11,
+          "username": "FanQie_QianQian"
+        },
+        {
+          "end": 40,
+          "id": "2050947066709573632",
+          "start": 28,
+          "username": "KetChup_Mew"
+        },
+        {
+          "end": 56,
+          "id": "2044392328966680576",
+          "start": 41,
+          "username": "OE3IIGFQRQ9473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074028058135396484",
+    "in_reply_to_user_id": "1765185217038635008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074027319224881222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikiPetya @FanQie_QianQian @KetChup_Mew @OE3IIGFQRQ9473 氣哭了。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [FanQie_QianQian].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "FanQie_QianQian",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "FanQie_QianQian"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073811033744171495",
+        "created_at": "2026-07-06T07:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074028058135396484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1765185217038635008",
+              "start": 0,
+              "username": "MikiPetya"
+            },
+            {
+              "end": 27,
+              "id": "2047894021457211393",
+              "start": 11,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 40,
+              "id": "2050947066709573632",
+              "start": 28,
+              "username": "KetChup_Mew"
+            },
+            {
+              "end": 56,
+              "id": "2044392328966680576",
+              "start": 41,
+              "username": "OE3IIGFQRQ9473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074028058135396484",
+        "in_reply_to_user_id": "1765185217038635008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074027319224881222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikiPetya @FanQie_QianQian @KetChup_Mew @OE3IIGFQRQ9473 氣哭了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765185217038635008",
+        "conversation_id": "2073811033744171495",
+        "created_at": "2026-07-06T07:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074027319224881222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 30,
+              "id": "2047894021457211393",
+              "start": 14,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 43,
+              "id": "2050947066709573632",
+              "start": 31,
+              "username": "KetChup_Mew"
+            },
+            {
+              "end": 59,
+              "id": "2044392328966680576",
+              "start": 44,
+              "username": "OE3IIGFQRQ9473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074027319224881222",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074026920816349401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT @FanQie_QianQian @KetChup_Mew @OE3IIGFQRQ9473 强强！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 37,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T01:18:56.000Z",
+        "description": "好想当三句不离男朋友的恋爱脑",
+        "id": "1765185217038635008",
+        "name": "呆毛都饿蔫了",
+        "pinned_tweet_id": "2057683356268241178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798166843926188032/a2IoRV0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 146,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "MikiPetya",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T14:34:35.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          }
+        },
+        "id": "2050947066709573632",
+        "name": "Ketchup.",
+        "pinned_tweet_id": "2052411668899258599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051593518955769856/hjmXPxj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 33,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "KetChup_Mew",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T12:28:23.000Z",
+        "description": "11年 順女 LGBTQ全友好 交友大歡迎\n寶寶 @7q46843886669\n本垢@FanQie_QianQian \n這裏是我的情緒垃圾桶 日常碎碎念（極多（\n負能過多 如果讓你感到不適我很抱歉 請屏蔽喵_(._.)_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/241BETQBPK"
+              }
+            ]
+          }
+        },
+        "id": "2044392328966680576",
+        "location": "看看你身後呢🤤",
+        "name": "芊芊/番茄操蛋9.0",
+        "pinned_tweet_id": "2050870299605020804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050602502027153408/qsJOFkPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 89,
+          "like_count": 1976,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/241BETQBPK",
+        "username": "OE3IIGFQRQ9473",
+        "verified": false
+      }
+    ]
+  }
+}

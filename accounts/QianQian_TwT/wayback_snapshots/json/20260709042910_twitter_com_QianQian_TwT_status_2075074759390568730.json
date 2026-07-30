@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2075072985267056681",
+    "created_at": "2026-07-09T04:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075074759390568730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069131894957191168",
+          "start": 0,
+          "username": "Hemlock_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075074759390568730",
+    "in_reply_to_user_id": "2069131894957191168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075072985267056681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hemlock_114 親親眼睛 補藥哭哭了喵 我不討厭泥我喜歡泥 學校太壞了😡😡😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075072978363326464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwj4S5boAAp50A.jpg",
+        "width": 1870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075072985267056681",
+        "created_at": "2026-07-09T04:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075074759390568730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069131894957191168",
+              "start": 0,
+              "username": "Hemlock_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075074759390568730",
+        "in_reply_to_user_id": "2069131894957191168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075072985267056681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hemlock_114 親親眼睛 補藥哭哭了喵 我不討厭泥我喜歡泥 學校太壞了😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075072978363326464"
+          ]
+        },
+        "author_id": "2069131894957191168",
+        "conversation_id": "2075072985267056681",
+        "created_at": "2026-07-09T04:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075072985267056681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g8R4hcgsk7",
+              "end": 90,
+              "expanded_url": "https://x.com/Hemlock_114/status/2075072985267056681/photo/1",
+              "media_key": "3_2075072978363326464",
+              "start": 67,
+              "url": "https://t.co/g8R4hcgsk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075072985267056681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在学校哭成猪头 我讨厌泪失禁 都考完试了还要这样对我。今天忘了遮耳钉被发现了 傻逼还说让我转校 全世界都希望我转校 所有人都讨厌我。 https://t.co/g8R4hcgsk7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 46,
+          "like_count": 455,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-22T18:56:04.000Z",
+        "description": "🇭🇰 10 单机透明人🍋\noder｜🩸｜碎碎念｜小作文\n前世@Hemlock_113 (´；ω；｀)\n害怕社交 社交恐惧 只互fo同类",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Hemlock_113"
+              }
+            ]
+          }
+        },
+        "id": "2069131894957191168",
+        "name": "凝檬_☆2.0",
+        "pinned_tweet_id": "2069139098594611364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069134933218705408/DX0rO-YL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 101,
+          "like_count": 200,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "Hemlock_114",
+        "verified": true
+      }
+    ]
+  }
+}

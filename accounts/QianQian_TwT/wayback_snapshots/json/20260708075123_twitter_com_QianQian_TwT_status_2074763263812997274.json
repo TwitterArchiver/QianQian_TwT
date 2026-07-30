@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074734341864002005",
+    "created_at": "2026-07-08T07:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074763263812997274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2073831265091174401",
+          "start": 0,
+          "username": "pdzrqrim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074763263812997274",
+    "in_reply_to_user_id": "2073831265091174401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074753938331684867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pdzrqrim ？我就是發騷也不會對著不認識的無辜小男孩小女孩發騷吧。你到底咋了。你似不似啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074734341864002005",
+        "created_at": "2026-07-08T07:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074763263812997274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2073831265091174401",
+              "start": 0,
+              "username": "pdzrqrim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074763263812997274",
+        "in_reply_to_user_id": "2073831265091174401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074753938331684867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pdzrqrim ？我就是發騷也不會對著不認識的無辜小男孩小女孩發騷吧。你到底咋了。你似不似啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073831265091174401",
+        "conversation_id": "2074734341864002005",
+        "created_at": "2026-07-08T07:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074753938331684867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074753938331684867",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074734341864002005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 人类是无期限发情的动物 你不也天天发骚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 45,
+          "like_count": 296,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-05T18:08:30.000Z",
+        "description": "",
+        "id": "2073831265091174401",
+        "name": "Lpd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073831949073035264/sub5VRwL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "pdzrqrim",
+        "verified": false
+      }
+    ]
+  }
+}

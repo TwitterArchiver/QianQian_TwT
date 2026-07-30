@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2073811033744171495",
+    "created_at": "2026-07-08T08:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074766278427049997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2050947066709573632",
+          "start": 5,
+          "username": "KetChup_Mew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074766278427049997",
+    "in_reply_to_user_id": "2073780355434483712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073811033744171495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窩趣現在連@Ketchup_Mew 這個號也沒了。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [KetChup_Mew].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "KetChup_Mew",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "KetChup_Mew"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2073811024592183296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeoI6wbIAAnhLf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 958,
+        "media_key": "3_2073811023916912641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeoI4PbUAEB7GX.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073811033744171495",
+        "created_at": "2026-07-08T08:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074766278427049997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2050947066709573632",
+              "start": 5,
+              "username": "KetChup_Mew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074766278427049997",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073811033744171495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窩趣現在連@Ketchup_Mew 這個號也沒了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073811024592183296",
+            "3_2073811023916912641"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073811033744171495",
+        "created_at": "2026-07-05T16:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073811033744171495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "2047894021457211393",
+              "start": 30,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 162,
+              "id": "2050947066709573632",
+              "start": 150,
+              "username": "KetChup_Mew"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/id7S5t2ffi",
+              "end": 195,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2073811033744171495/photo/1",
+              "media_key": "3_2073811024592183296",
+              "start": 172,
+              "url": "https://t.co/id7S5t2ffi"
+            },
+            {
+              "display_url": "pic.x.com/id7S5t2ffi",
+              "end": 195,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2073811033744171495/photo/1",
+              "media_key": "3_2073811023916912641",
+              "start": 172,
+              "url": "https://t.co/id7S5t2ffi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073811033744171495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15533,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋第12世 參上？！\n好操蛋啊！又要從0開始了呢…前世為 @FanQie_QianQian \n好不容易快1k5 followers 了 結果遭惡意舉報 永封了\n我好難過 我什麼都沒有了 我不想再被封了 我不想再失去了 這個號我只會發自拍 不要再惡意舉報我了好不好 我從未招惹任何人 \n血圖碎碎唸放在@KetChup_Mew 只通過熟悉的互關 https://t.co/id7S5t2ffi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 45,
+          "like_count": 297,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

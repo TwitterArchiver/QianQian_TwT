@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2079856281272426960",
+    "created_at": "2026-07-23T07:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080188140263002422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975850232094371840",
+          "start": 0,
+          "username": "zhizi160216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080188140263002422",
+    "in_reply_to_user_id": "1975850232094371840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079856281272426960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhizi160216 高領露肩毛衣嗎好可愛！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079856251203432448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0iPazbMAAxWCP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2079856281272426960",
+        "created_at": "2026-07-23T07:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080188140263002422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975850232094371840",
+              "start": 0,
+              "username": "zhizi160216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080188140263002422",
+        "in_reply_to_user_id": "1975850232094371840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079856281272426960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizi160216 高領露肩毛衣嗎好可愛！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079856251203432448"
+          ]
+        },
+        "author_id": "1975850232094371840",
+        "conversation_id": "2079856281272426960",
+        "created_at": "2026-07-22T09:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079856281272426960"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "病み垢"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "fypシ"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "自撮り"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPWIec7q9K",
+              "end": 58,
+              "expanded_url": "https://x.com/zhizi160216/status/2079856281272426960/photo/1",
+              "media_key": "3_2079856251203432448",
+              "start": 35,
+              "url": "https://t.co/OPWIec7q9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079856281272426960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果淚水比愛多 #雰囲気 #メンヘラ #病み垢 #fypシ #自撮り https://t.co/OPWIec7q9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 56,
+          "like_count": 1483,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-08T09:07:43.000Z",
+        "description": "",
+        "id": "1975850232094371840",
+        "location": "🚪88 纯绿",
+        "name": "沫沫",
+        "pinned_tweet_id": "2065855514979037289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980630127638654976/q6sFuFBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 86,
+          "like_count": 852,
+          "listed_count": 3,
+          "media_count": 162,
+          "tweet_count": 1048
+        },
+        "url": "",
+        "username": "zhizi160216",
+        "verified": false
+      }
+    ]
+  }
+}

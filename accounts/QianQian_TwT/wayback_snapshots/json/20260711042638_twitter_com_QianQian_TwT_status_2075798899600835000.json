@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2075677481248723439",
+    "created_at": "2026-07-11T04:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075798899600835000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1805047599256494080",
+          "start": 0,
+          "username": "rn6zw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075798899600835000",
+    "in_reply_to_user_id": "1805047599256494080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075677481248723439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rn6zw0 啊啊啊寶寶寶寶寶寶你咋這麼萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075677468263170048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5JqPQbwAAnfxT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075677481248723439",
+        "created_at": "2026-07-11T04:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075798899600835000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1805047599256494080",
+              "start": 0,
+              "username": "rn6zw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075798899600835000",
+        "in_reply_to_user_id": "1805047599256494080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075677481248723439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rn6zw0 啊啊啊寶寶寶寶寶寶你咋這麼萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075677468263170048"
+          ]
+        },
+        "author_id": "1805047599256494080",
+        "conversation_id": "2075677481248723439",
+        "created_at": "2026-07-10T20:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075677481248723439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PJ4gN21dJU",
+              "end": 33,
+              "expanded_url": "https://x.com/rn6zw0/status/2075677481248723439/photo/1",
+              "media_key": "3_2075677468263170048",
+              "start": 10,
+              "url": "https://t.co/PJ4gN21dJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075677481248723439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操 這是我？？？ https://t.co/PJ4gN21dJU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 52,
+          "like_count": 783,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-24T01:17:49.000Z",
+        "description": "Les｜09｜HK｜ Self-harm｜OD｜成份複雜",
+        "id": "1805047599256494080",
+        "location": "🚪50",
+        "name": "小睡",
+        "pinned_tweet_id": "2040488973508940220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007966344122351616/74Sgbo2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 305,
+          "like_count": 1170,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 887
+        },
+        "url": "",
+        "username": "rn6zw0",
+        "verified": false
+      }
+    ]
+  }
+}

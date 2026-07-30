@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2080766396729033092",
+    "created_at": "2026-07-25T02:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080843869198156040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2052437224361447424",
+          "start": 0,
+          "username": "mikik8yq"
+        },
+        {
+          "end": 24,
+          "id": "1625848011221008392",
+          "start": 10,
+          "username": "keaixianggugu"
+        },
+        {
+          "end": 34,
+          "id": "1845491203124441093",
+          "start": 25,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080843869198156040",
+    "in_reply_to_user_id": "2052437224361447424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080766396729033092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikik8yq @keaixianggugu @yu_huacs 餓了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080766386956328960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBeASsa4AAaU44.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080766386922770432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBeASka0AAWY_E.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2080766396729033092",
+        "created_at": "2026-07-25T02:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080843869198156040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2052437224361447424",
+              "start": 0,
+              "username": "mikik8yq"
+            },
+            {
+              "end": 24,
+              "id": "1625848011221008392",
+              "start": 10,
+              "username": "keaixianggugu"
+            },
+            {
+              "end": 34,
+              "id": "1845491203124441093",
+              "start": 25,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080843869198156040",
+        "in_reply_to_user_id": "2052437224361447424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080766396729033092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikik8yq @keaixianggugu @yu_huacs 餓了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080766386956328960",
+            "3_2080766386922770432"
+          ]
+        },
+        "author_id": "2052437224361447424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080766396729033092",
+        "created_at": "2026-07-24T21:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T22:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080766396729033092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GK7j3S300b",
+              "end": 34,
+              "expanded_url": "https://x.com/mikik8yq/status/2080766396729033092/photo/1",
+              "media_key": "3_2080766386956328960",
+              "start": 11,
+              "url": "https://t.co/GK7j3S300b"
+            },
+            {
+              "display_url": "pic.x.com/GK7j3S300b",
+              "end": 34,
+              "expanded_url": "https://x.com/mikik8yq/status/2080766396729033092/photo/1",
+              "media_key": "3_2080766386922770432",
+              "start": 11,
+              "url": "https://t.co/GK7j3S300b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080766396729033092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别说话，我在烧烤…. https://t.co/GK7j3S300b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 56,
+          "like_count": 2026,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-07T17:16:36.000Z",
+        "description": "我是一个只存于互联网的电子幽灵真实的存在于地球的某一个角落",
+        "id": "2052437224361447424",
+        "name": "天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077994219051118592/WCTAynwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 15,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "mikik8yq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T13:22:42.000Z",
+        "description": "OD对我来说只是拿来解闷和助兴，不提供购药渠道。  上海地区需要帮助的挂壁同好请私聊我，欢迎互关，我人很和善欢迎闲聊~",
+        "id": "1625848011221008392",
+        "location": "上海",
+        "name": "一只鸽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816713088034570242/x9lDEI6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 402,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "keaixianggugu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "双相/准备复学中 成分复杂 ＃overdose！\nshanghai路上随机刷新的公路车手\n热衷于公路车/宅系/男娘/少有cos内容 一个公路车技师 二次元/cosplay/摄影/割手/od\nmaster @8964yekatinez    哦尼酱@silentbleeding1     里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "8964yekatinez"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "name": "余华成霜，我是凡人，骚扰萌神。",
+        "pinned_tweet_id": "2079482546564526504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 1566,
+          "like_count": 123646,
+          "listed_count": 8,
+          "media_count": 2166,
+          "tweet_count": 20469
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074825134800592896"
+      ],
+      "media_source_tweet_id": [
+        "2074825142002450870"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2080343295134425247",
+    "created_at": "2026-07-23T17:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080343295134425247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8BXm1aCSE",
+          "end": 51,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074825142002450870/photo/1",
+          "media_key": "3_2074825134800592896",
+          "start": 28,
+          "url": "https://t.co/a8BXm1aCSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080343295134425247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074825142002450870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 泥 在 幹 嘛 ~ https://t.co/a8BXm1aCSE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2074825134800592896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtCd5rXYAAsRh0.jpg",
+        "width": 725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074825134800592896"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074825142002450870",
+        "created_at": "2026-07-08T11:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074825142002450870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8BXm1aCSE",
+              "end": 33,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074825142002450870/photo/1",
+              "media_key": "3_2074825134800592896",
+              "start": 10,
+              "url": "https://t.co/a8BXm1aCSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074825142002450870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4027,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "泥 在 幹 嘛 ~ https://t.co/a8BXm1aCSE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074825134800592896"
+          ],
+          "media_source_tweet_id": [
+            "2074825142002450870"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2080343295134425247",
+        "created_at": "2026-07-23T17:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080343295134425247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8BXm1aCSE",
+              "end": 51,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074825142002450870/photo/1",
+              "media_key": "3_2074825134800592896",
+              "start": 28,
+              "url": "https://t.co/a8BXm1aCSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080343295134425247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074825142002450870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 泥 在 幹 嘛 ~ https://t.co/a8BXm1aCSE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 57,
+          "like_count": 1542,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

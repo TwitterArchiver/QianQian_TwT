@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2076639476819075183",
+    "created_at": "2026-07-14T01:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076839464438296609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045895393012322304",
+          "start": 0,
+          "username": "zameru619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076839464438296609",
+    "in_reply_to_user_id": "2045895393012322304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076639476819075183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zameru619 呀咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1976,
+        "media_key": "3_2076639462449438720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNG0lq3bYAAE5n7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2076639476819075183",
+        "created_at": "2026-07-14T01:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076839464438296609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045895393012322304",
+              "start": 0,
+              "username": "zameru619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076839464438296609",
+        "in_reply_to_user_id": "2045895393012322304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076639476819075183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zameru619 呀咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076639462449438720"
+          ]
+        },
+        "author_id": "2045895393012322304",
+        "conversation_id": "2076639476819075183",
+        "created_at": "2026-07-13T12:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076639476819075183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IoVIiELZH9",
+              "end": 42,
+              "expanded_url": "https://x.com/zameru619/status/2076639476819075183/photo/1",
+              "media_key": "3_2076639462449438720",
+              "start": 19,
+              "url": "https://t.co/IoVIiELZH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076639476819075183",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 你這傢伙 https://t.co/IoVIiELZH9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 53,
+          "like_count": 1133,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T16:01:26.000Z",
+        "description": "",
+        "id": "2045895393012322304",
+        "name": "QWERTYUIOP",
+        "pinned_tweet_id": "2075510696817926157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057539570326188032/AGea5hRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 89,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "zameru619",
+        "verified": false
+      }
+    ]
+  }
+}

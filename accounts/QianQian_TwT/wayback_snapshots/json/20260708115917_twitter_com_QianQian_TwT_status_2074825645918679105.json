@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074817048992207031",
+    "created_at": "2026-07-08T11:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074825645918679105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1401185047835598850",
+          "start": 0,
+          "username": "OctoberSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074825645918679105",
+    "in_reply_to_user_id": "1401185047835598850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074824805656719743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OctoberSama 我就只縮了一點面中 再調了個濾鏡 別的地方沒碰過牙（目移"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074817048992207031",
+        "created_at": "2026-07-08T11:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074825645918679105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1401185047835598850",
+              "start": 0,
+              "username": "OctoberSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074825645918679105",
+        "in_reply_to_user_id": "1401185047835598850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074824805656719743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OctoberSama 我就只縮了一點面中 再調了個濾鏡 別的地方沒碰過牙（目移"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401185047835598850",
+        "conversation_id": "2074817048992207031",
+        "created_at": "2026-07-08T11:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074824805656719743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074824805656719743",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074817048992207031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 这比例对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 46,
+          "like_count": 420,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-05T14:32:11.000Z",
+        "description": "有冒犯到的话非常抱歉\n妈妈&妹妹&爱人&主人: @MZTNHZKbycw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "MZTNHZKbycw"
+              }
+            ]
+          }
+        },
+        "id": "1401185047835598850",
+        "name": "十月",
+        "pinned_tweet_id": "1960395625322963237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665002248873836544/yx8WobC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 1974,
+          "like_count": 16464,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "OctoberSama",
+        "verified": true
+      }
+    ]
+  }
+}

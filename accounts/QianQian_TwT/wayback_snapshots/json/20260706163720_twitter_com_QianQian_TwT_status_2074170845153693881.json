@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074170828162490374",
+        "3_2074170829244682240",
+        "3_2074170830985306112",
+        "3_2074170832352649216"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074170845153693881",
+    "created_at": "2026-07-06T16:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074170845153693881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/429dMZn0A9",
+          "end": 120,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074170845153693881/photo/1",
+          "media_key": "3_2074170828162490374",
+          "start": 97,
+          "url": "https://t.co/429dMZn0A9"
+        },
+        {
+          "display_url": "pic.x.com/429dMZn0A9",
+          "end": 120,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074170845153693881/photo/1",
+          "media_key": "3_2074170829244682240",
+          "start": 97,
+          "url": "https://t.co/429dMZn0A9"
+        },
+        {
+          "display_url": "pic.x.com/429dMZn0A9",
+          "end": 120,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074170845153693881/photo/1",
+          "media_key": "3_2074170830985306112",
+          "start": 97,
+          "url": "https://t.co/429dMZn0A9"
+        },
+        {
+          "display_url": "pic.x.com/429dMZn0A9",
+          "end": 120,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074170845153693881/photo/1",
+          "media_key": "3_2074170832352649216",
+          "start": 97,
+          "url": "https://t.co/429dMZn0A9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074170845153693881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦哦 還真是（）好可憐啊被msk戴口球了www 揉揉泥喵\n\n我枝豆窩很萌 因為我都是裝給泥們看的喵(&gt;^ω^&lt;)\n\n忘了 別問這種問題我不喜歡\n\n真噁心 要是讓我知道你是誰我殺了你 https://t.co/429dMZn0A9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2074170828162490374",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjvYPgaYAYpG8f.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2074170829244682240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjvYTibUAAeg-b.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2074170830985306112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjvYaBbIAAC58C.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2074170832352649216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjvYfHbIAAXa68.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074170828162490374",
+            "3_2074170829244682240",
+            "3_2074170830985306112",
+            "3_2074170832352649216"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074170845153693881",
+        "created_at": "2026-07-06T16:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074170845153693881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/429dMZn0A9",
+              "end": 120,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074170845153693881/photo/1",
+              "media_key": "3_2074170828162490374",
+              "start": 97,
+              "url": "https://t.co/429dMZn0A9"
+            },
+            {
+              "display_url": "pic.x.com/429dMZn0A9",
+              "end": 120,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074170845153693881/photo/1",
+              "media_key": "3_2074170829244682240",
+              "start": 97,
+              "url": "https://t.co/429dMZn0A9"
+            },
+            {
+              "display_url": "pic.x.com/429dMZn0A9",
+              "end": 120,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074170845153693881/photo/1",
+              "media_key": "3_2074170830985306112",
+              "start": 97,
+              "url": "https://t.co/429dMZn0A9"
+            },
+            {
+              "display_url": "pic.x.com/429dMZn0A9",
+              "end": 120,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074170845153693881/photo/1",
+              "media_key": "3_2074170832352649216",
+              "start": 97,
+              "url": "https://t.co/429dMZn0A9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074170845153693881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦 還真是（）好可憐啊被msk戴口球了www 揉揉泥喵\n\n我枝豆窩很萌 因為我都是裝給泥們看的喵(&gt;^ω^&lt;)\n\n忘了 別問這種問題我不喜歡\n\n真噁心 要是讓我知道你是誰我殺了你 https://t.co/429dMZn0A9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 40,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

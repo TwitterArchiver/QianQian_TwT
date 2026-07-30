@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074126603844833280",
+        "3_2074126604692082689",
+        "3_2074126606105468928",
+        "3_2074126619091034112"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074126677270249858",
+    "created_at": "2026-07-06T13:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074126677270249858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iiUJGlH9xo",
+          "end": 38,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074126677270249858/photo/1",
+          "media_key": "3_2074126603844833280",
+          "start": 15,
+          "url": "https://t.co/iiUJGlH9xo"
+        },
+        {
+          "display_url": "pic.x.com/iiUJGlH9xo",
+          "end": 38,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074126677270249858/photo/1",
+          "media_key": "3_2074126604692082689",
+          "start": 15,
+          "url": "https://t.co/iiUJGlH9xo"
+        },
+        {
+          "display_url": "pic.x.com/iiUJGlH9xo",
+          "end": 38,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074126677270249858/photo/1",
+          "media_key": "3_2074126606105468928",
+          "start": 15,
+          "url": "https://t.co/iiUJGlH9xo"
+        },
+        {
+          "display_url": "pic.x.com/iiUJGlH9xo",
+          "end": 38,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074126677270249858/photo/1",
+          "media_key": "3_2074126619091034112",
+          "start": 15,
+          "url": "https://t.co/iiUJGlH9xo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074126677270249858",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "貓^=⦁𖥦⦁=^ ੭ * 4 https://t.co/iiUJGlH9xo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2074126603844833280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjHKDFb0AAzeDE.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2074126604692082689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjHKGPb0AELMTF.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1712,
+        "media_key": "3_2074126606105468928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjHKLgaYAAaN2k.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1284,
+        "media_key": "3_2074126619091034112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjHK74aYAAYkHQ.jpg",
+        "width": 1712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074126603844833280",
+            "3_2074126604692082689",
+            "3_2074126606105468928",
+            "3_2074126619091034112"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074126677270249858",
+        "created_at": "2026-07-06T13:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074126677270249858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiUJGlH9xo",
+              "end": 38,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074126677270249858/photo/1",
+              "media_key": "3_2074126603844833280",
+              "start": 15,
+              "url": "https://t.co/iiUJGlH9xo"
+            },
+            {
+              "display_url": "pic.x.com/iiUJGlH9xo",
+              "end": 38,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074126677270249858/photo/1",
+              "media_key": "3_2074126604692082689",
+              "start": 15,
+              "url": "https://t.co/iiUJGlH9xo"
+            },
+            {
+              "display_url": "pic.x.com/iiUJGlH9xo",
+              "end": 38,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074126677270249858/photo/1",
+              "media_key": "3_2074126606105468928",
+              "start": 15,
+              "url": "https://t.co/iiUJGlH9xo"
+            },
+            {
+              "display_url": "pic.x.com/iiUJGlH9xo",
+              "end": 38,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074126677270249858/photo/1",
+              "media_key": "3_2074126619091034112",
+              "start": 15,
+              "url": "https://t.co/iiUJGlH9xo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074126677270249858",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "貓^=⦁𖥦⦁=^ ੭ * 4 https://t.co/iiUJGlH9xo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 36,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

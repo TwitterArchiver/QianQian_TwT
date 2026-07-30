@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076141353088512000"
+      ],
+      "media_source_tweet_id": [
+        "2076141413033537719"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2076366639826882567",
+    "created_at": "2026-07-12T18:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076366639826882567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1427384347963928576",
+          "start": 3,
+          "username": "gatinarios"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ScV1oqSsmN",
+          "end": 39,
+          "expanded_url": "https://x.com/gatinarios/status/2076141413033537719/video/1",
+          "media_key": "13_2076141353088512000",
+          "start": 16,
+          "url": "https://t.co/ScV1oqSsmN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076366639826882567",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2076
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076141413033537719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gatinarios: https://t.co/ScV1oqSsmN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8666,
+        "height": 788,
+        "media_key": "13_2076141353088512000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076141353088512000/img/MuBNeA64spzHsgI_.jpg",
+        "public_metrics": {
+          "view_count": 55504
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076141353088512000/vid/avc1/986x720/O7xe2Fp2CSNbZdW9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076141353088512000/vid/avc1/1080x788/blBpqR0ffk3wRSAZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076141353088512000/vid/avc1/492x360/Nn5n6m3KSLHTdlDi.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076141353088512000/vid/avc1/370x270/GbJtJr0nVC9hiNhD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076141353088512000/pl/L1mU2A3BtHD5iU_8.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076141353088512000"
+          ],
+          "media_source_tweet_id": [
+            "2076141413033537719"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076366639826882567",
+        "created_at": "2026-07-12T18:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076366639826882567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1427384347963928576",
+              "start": 3,
+              "username": "gatinarios"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScV1oqSsmN",
+              "end": 39,
+              "expanded_url": "https://x.com/gatinarios/status/2076141413033537719/video/1",
+              "media_key": "13_2076141353088512000",
+              "start": 16,
+              "url": "https://t.co/ScV1oqSsmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076366639826882567",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2076
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076141413033537719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gatinarios: https://t.co/ScV1oqSsmN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076141353088512000"
+          ]
+        },
+        "author_id": "1427384347963928576",
+        "conversation_id": "2076141413033537719",
+        "created_at": "2026-07-12T03:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076141413033537719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScV1oqSsmN",
+              "end": 23,
+              "expanded_url": "https://x.com/gatinarios/status/2076141413033537719/video/1",
+              "media_key": "13_2076141353088512000",
+              "start": 0,
+              "url": "https://t.co/ScV1oqSsmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076141413033537719",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1595,
+          "impression_count": 153362,
+          "like_count": 9657,
+          "quote_count": 101,
+          "reply_count": 14,
+          "retweet_count": 2076
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ScV1oqSsmN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 52,
+          "like_count": 969,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-16T21:38:55.000Z",
+        "description": "🐈‍⬛ entra e cumprimenta os gatos! não são minhas imagens! eu te amo! 🐈",
+        "id": "1427384347963928576",
+        "location": "Brasil",
+        "name": "gatos fazendo gatices",
+        "pinned_tweet_id": "2076063883681300571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911285752526229504/M7vBupxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839972,
+          "following_count": 65,
+          "like_count": 834,
+          "listed_count": 1548,
+          "media_count": 775,
+          "tweet_count": 1059
+        },
+        "url": "",
+        "username": "gatinarios",
+        "verified": true
+      }
+    ]
+  }
+}

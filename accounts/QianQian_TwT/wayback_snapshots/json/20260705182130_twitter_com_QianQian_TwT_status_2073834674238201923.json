@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2073828774068854939",
+    "created_at": "2026-07-05T18:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073834674238201923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073834674238201923",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073828774068854939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 神秘小捲毛？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073828765516607488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMe4Rk2asAAMUaH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073828774068854939",
+        "created_at": "2026-07-05T18:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073834674238201923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073834674238201923",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073828774068854939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 神秘小捲毛？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073828765516607488"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "conversation_id": "2073828774068854939",
+        "created_at": "2026-07-05T17:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073828774068854939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBpVMho0di",
+              "end": 44,
+              "expanded_url": "https://x.com/OoOooo0518/status/2073828774068854939/photo/1",
+              "media_key": "3_2073828765516607488",
+              "start": 21,
+              "url": "https://t.co/xBpVMho0di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073828774068854939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑染了个蓝色的头发 这是我男装的模样❤️ https://t.co/xBpVMho0di"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 17,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 你可以叫我O泡（大一休学中 欢迎来找我聊天 欢迎互fo 我再次重生的妹妹: @FanQie_QianQian @OE3IIGFQRQ9473",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "FanQie_QianQian"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "location": "杭州",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2022698531300217050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073828850019233792/zP0V5_M2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 330,
+          "like_count": 2700,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "OoOooo0518",
+        "verified": false
+      }
+    ]
+  }
+}

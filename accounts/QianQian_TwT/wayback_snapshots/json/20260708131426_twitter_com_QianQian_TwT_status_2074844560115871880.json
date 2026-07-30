@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074838953455423995",
+    "created_at": "2026-07-08T13:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074844560115871880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431288671844536321",
+          "start": 0,
+          "username": "alvinabdjjsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074844560115871880",
+    "in_reply_to_user_id": "1431288671844536321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074842133077614980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alvinabdjjsa 我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074842128312926208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtR7DcbgAAipEF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074838953455423995",
+        "created_at": "2026-07-08T13:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074844560115871880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431288671844536321",
+              "start": 0,
+              "username": "alvinabdjjsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074844560115871880",
+        "in_reply_to_user_id": "1431288671844536321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074842133077614980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alvinabdjjsa 我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074842128312926208"
+          ]
+        },
+        "author_id": "1431288671844536321",
+        "conversation_id": "2074838953455423995",
+        "created_at": "2026-07-08T13:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074842133077614980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGmFagISKb",
+              "end": 43,
+              "expanded_url": "https://x.com/alvinabdjjsa/status/2074842133077614980/photo/1",
+              "media_key": "3_2074842128312926208",
+              "start": 20,
+              "url": "https://t.co/EGmFagISKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074842133077614980",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074838953455423995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 雷霆大凑脚 https://t.co/EGmFagISKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 46,
+          "like_count": 427,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T16:13:24.000Z",
+        "description": "最愛小貓",
+        "id": "1431288671844536321",
+        "location": "Hong Kong",
+        "name": "sadcato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584186471636144128/_h-5xTPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 439,
+          "like_count": 1133,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "alvinabdjjsa",
+        "verified": false
+      }
+    ]
+  }
+}

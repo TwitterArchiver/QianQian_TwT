@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2079790338382930011",
+    "created_at": "2026-07-22T08:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079852590611984645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1557193023468883968",
+          "start": 0,
+          "username": "xaoyou408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079852590611984645",
+    "in_reply_to_user_id": "1557193023468883968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079790338382930011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaoyou408 羨慕雪糕😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4806,
+        "height": 960,
+        "media_key": "13_2079790317591781376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079790317591781376/img/FBxkABeUJfuAAOYV.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079790317591781376/vid/avc1/320x426/LhhmXGZ7xVl-zWrm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079790317591781376/vid/avc1/480x640/6PXtJcyTIIYodtSN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079790317591781376/vid/avc1/720x960/fmnadbOXO4mT5GFQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079790317591781376/pl/Z9Py7fprcwEQhKzY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2079790338382930011",
+        "created_at": "2026-07-22T08:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079852590611984645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1557193023468883968",
+              "start": 0,
+              "username": "xaoyou408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079852590611984645",
+        "in_reply_to_user_id": "1557193023468883968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079790338382930011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaoyou408 羨慕雪糕😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079790317591781376"
+          ]
+        },
+        "author_id": "1557193023468883968",
+        "conversation_id": "2079790338382930011",
+        "created_at": "2026-07-22T04:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079790338382930011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rou3jYBT5Q",
+              "end": 32,
+              "expanded_url": "https://x.com/xaoyou408/status/2079790338382930011/video/1",
+              "media_key": "13_2079790317591781376",
+              "start": 9,
+              "url": "https://t.co/rou3jYBT5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079790338382930011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毫无形象不管了。 https://t.co/rou3jYBT5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 56,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-10T02:32:12.000Z",
+        "description": "我是小优 谢谢你们喜欢💗\n^^神经病/被害妄想症/畏惧死亡/人体改造/受虐倾向\n交友🚪52）zfb口令+名",
+        "id": "1557193023468883968",
+        "location": "地狱",
+        "name": "役津栗优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043926720580071426/mJZ_Jz9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 35,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "xaoyou408",
+        "verified": false
+      }
+    ]
+  }
+}

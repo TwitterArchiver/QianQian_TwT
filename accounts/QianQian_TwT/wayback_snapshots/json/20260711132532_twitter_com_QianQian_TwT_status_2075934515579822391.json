@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075934503739199488"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2075934515579822391",
+    "created_at": "2026-07-11T13:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075934515579822391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vXpqrfxcHz",
+          "end": 33,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2075934515579822391/video/1",
+          "media_key": "7_2075934503739199488",
+          "start": 10,
+          "url": "https://t.co/vXpqrfxcHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075934515579822391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "騷b自己坐上來^^ https://t.co/vXpqrfxcHz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2207,
+        "height": 960,
+        "media_key": "7_2075934503739199488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075934503739199488/pu/img/2-EWaED_-2-PWFE1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075934503739199488/pu/vid/avc1/320x568/r3MV9bz-69dmv64Z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075934503739199488/pu/vid/avc1/480x852/NVCPDQMYGzasIcUN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075934503739199488/pu/vid/avc1/540x960/hAYs2GBMynmlnc2A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075934503739199488/pu/pl/oq_5KAmEqGCu2ucG.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075934503739199488"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075934515579822391",
+        "created_at": "2026-07-11T13:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075934515579822391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXpqrfxcHz",
+              "end": 33,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2075934515579822391/video/1",
+              "media_key": "7_2075934503739199488",
+              "start": 10,
+              "url": "https://t.co/vXpqrfxcHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075934515579822391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "騷b自己坐上來^^ https://t.co/vXpqrfxcHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 52,
+          "like_count": 838,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

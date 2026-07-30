@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2075496792825987319",
+    "created_at": "2026-07-10T18:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T19:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075642401390272817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574234770372169728",
+          "start": 0,
+          "username": "rfa71365702"
+        },
+        {
+          "end": 23,
+          "id": "2045895393012322304",
+          "start": 13,
+          "username": "zameru619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075642401390272817",
+    "in_reply_to_user_id": "1574234770372169728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075518028536836577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rfa71365702 @zameru619 啥比來的 反正這期我是沒繃住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075496792825987319",
+        "created_at": "2026-07-10T18:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075642401390272817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574234770372169728",
+              "start": 0,
+              "username": "rfa71365702"
+            },
+            {
+              "end": 23,
+              "id": "2045895393012322304",
+              "start": 13,
+              "username": "zameru619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075642401390272817",
+        "in_reply_to_user_id": "1574234770372169728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075518028536836577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rfa71365702 @zameru619 啥比來的 反正這期我是沒繃住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574234770372169728",
+        "conversation_id": "2075496792825987319",
+        "created_at": "2026-07-10T09:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075518028536836577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045895393012322304",
+              "start": 0,
+              "username": "zameru619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075518028536836577",
+        "in_reply_to_user_id": "2045895393012322304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075496792825987319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zameru619 没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 52,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-26T03:09:59.000Z",
+        "description": "你之所以会看到星星一闪一闪，是因为你长得太漂亮，外星人在偷拍你时忘记了关闪光灯",
+        "id": "1574234770372169728",
+        "name": "一尘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842412290383159296/oOhb6bf4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 7,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "rfa71365702",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T16:01:26.000Z",
+        "description": "",
+        "id": "2045895393012322304",
+        "name": "QWERTYUIOP",
+        "pinned_tweet_id": "2074690996441616893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057539570326188032/AGea5hRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 72,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "zameru619",
+        "verified": false
+      }
+    ]
+  }
+}

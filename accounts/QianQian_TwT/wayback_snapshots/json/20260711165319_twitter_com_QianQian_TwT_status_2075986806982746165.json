@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2075877556415602957",
+    "created_at": "2026-07-11T16:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T17:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075986806982746165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1701232705386471424",
+          "start": 0,
+          "username": "denka0926"
+        },
+        {
+          "end": 27,
+          "id": "2039986041218592768",
+          "start": 11,
+          "username": "7xEcuUp3Sf61887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075986806982746165",
+    "in_reply_to_user_id": "1701232705386471424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075934573800878197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@denka0926 @7xEcuUp3Sf61887 证道！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075877556415602957",
+        "created_at": "2026-07-11T16:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075986806982746165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701232705386471424",
+              "start": 0,
+              "username": "denka0926"
+            },
+            {
+              "end": 27,
+              "id": "2039986041218592768",
+              "start": 11,
+              "username": "7xEcuUp3Sf61887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075986806982746165",
+        "in_reply_to_user_id": "1701232705386471424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075934573800878197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@denka0926 @7xEcuUp3Sf61887 证道！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701232705386471424",
+        "conversation_id": "2075877556415602957",
+        "created_at": "2026-07-11T13:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075934573800878197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "7xEcuUp3Sf61887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075934573800878197",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075877556415602957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xEcuUp3Sf61887 最好的deeptalk就是两个人互相开展一个话题 然后两个人互相分享自己的想法 然后如果有不合的地方 大家再拿出来讨论 直到讨论到两个人都觉得这样子很对 那我会觉得很舒服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 52,
+          "like_count": 841,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-11T13:54:36.000Z",
+        "description": "they/them/泛性戀/09\n中/粵/Eng\nintj/🇭🇰/adhd/ptsd\n叫睡睡或者猫猫也行有点害羞怕生\n不会聊天不懂怎么经营账号别讨厌我\n皮下女但是性别认同是他们不喜欢被用她称呼\n回人特别慢不要嫌弃我特别敏感脆弱的小猫\n先看完再dm我别问这里有的东西\n不加别的app",
+        "id": "1701232705386471424",
+        "name": "睡睡",
+        "pinned_tweet_id": "2070560115317678275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775426305959542784/BJIB2fLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3322,
+          "following_count": 17,
+          "like_count": 1139,
+          "listed_count": 4,
+          "media_count": 44,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "denka0926",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚｜DM○",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2070813276167094635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 97,
+          "like_count": 5880,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "7xEcuUp3Sf61887",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074484505860263936",
+        "3_2074484506313334784"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074484520448037309",
+    "created_at": "2026-07-07T13:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074484520448037309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kbXUuetpiJ",
+          "end": 34,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074484520448037309/photo/1",
+          "media_key": "3_2074484505860263936",
+          "start": 11,
+          "url": "https://t.co/kbXUuetpiJ"
+        },
+        {
+          "display_url": "pic.x.com/kbXUuetpiJ",
+          "end": 34,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074484520448037309/photo/1",
+          "media_key": "3_2074484506313334784",
+          "start": 11,
+          "url": "https://t.co/kbXUuetpiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074484520448037309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你猜我為什麼不說話。 https://t.co/kbXUuetpiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2074484505860263936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoMqr_aUAAILP9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2074484506313334784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoMqtrboAACoWN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074484505860263936",
+            "3_2074484506313334784"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074484520448037309",
+        "created_at": "2026-07-07T13:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074484520448037309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbXUuetpiJ",
+              "end": 34,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074484520448037309/photo/1",
+              "media_key": "3_2074484505860263936",
+              "start": 11,
+              "url": "https://t.co/kbXUuetpiJ"
+            },
+            {
+              "display_url": "pic.x.com/kbXUuetpiJ",
+              "end": 34,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074484520448037309/photo/1",
+              "media_key": "3_2074484506313334784",
+              "start": 11,
+              "url": "https://t.co/kbXUuetpiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074484520448037309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你猜我為什麼不說話。 https://t.co/kbXUuetpiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 39,
+          "like_count": 206,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

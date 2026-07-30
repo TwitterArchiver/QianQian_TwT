@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2076350734954824014",
+    "created_at": "2026-07-12T17:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076351325714190456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058915039873290240",
+          "start": 0,
+          "username": "Yuui7joo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076351325714190456",
+    "in_reply_to_user_id": "2058915039873290240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076350734954824014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuui7joo 泥咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2076350734954824014",
+        "created_at": "2026-07-12T17:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076351325714190456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058915039873290240",
+              "start": 0,
+              "username": "Yuui7joo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076351325714190456",
+        "in_reply_to_user_id": "2058915039873290240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076350734954824014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuui7joo 泥咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058915039873290240",
+        "conversation_id": "2076350734954824014",
+        "created_at": "2026-07-12T16:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076350734954824014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076350734954824014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠突然好難受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 52,
+          "like_count": 961,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-25T14:17:18.000Z",
+        "description": "當然是大帥比啊\n2026年小嬰兒/小男女孩小女男孩/猴子/沙茶/小丑魚\n曾經受過一些傷害～現在有些看不開～\n說話🈚️過腦子的可能\n老師我號沒了我看的片也沒了",
+        "id": "2058915039873290240",
+        "name": "呱呱呱南",
+        "pinned_tweet_id": "2074887164102590771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074890244923768832/Cmv5emHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 30,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Yuui7joo",
+        "verified": false
+      }
+    ]
+  }
+}

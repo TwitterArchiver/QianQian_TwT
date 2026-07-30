@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2045392716671140260",
+    "created_at": "2026-07-08T09:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074792724516237623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039418409205805056",
+          "start": 0,
+          "username": "evaolsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074792724516237623",
+    "in_reply_to_user_id": "2039418409205805056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045392716671140260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evaolsr 捏捏！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1702,
+        "media_key": "3_2045392711050764288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKx1XBaoAA3i2D.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2045392716671140260",
+        "created_at": "2026-07-08T09:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074792724516237623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039418409205805056",
+              "start": 0,
+              "username": "evaolsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074792724516237623",
+        "in_reply_to_user_id": "2039418409205805056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045392716671140260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evaolsr 捏捏！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045392711050764288"
+          ]
+        },
+        "author_id": "2039418409205805056",
+        "conversation_id": "2045392716671140260",
+        "created_at": "2026-04-18T06:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045392716671140260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwruXN0Zpg",
+              "end": 26,
+              "expanded_url": "https://x.com/evaolsr/status/2045392716671140260/photo/1",
+              "media_key": "3_2045392711050764288",
+              "start": 3,
+              "url": "https://t.co/BwruXN0Zpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045392716671140260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肉肉 https://t.co/BwruXN0Zpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 47,
+          "like_count": 357,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-01T19:05:40.000Z",
+        "description": "可我是个好女孩 你还会喜欢我吗",
+        "id": "2039418409205805056",
+        "location": "啊哈哈",
+        "name": "苦爱.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062742994164531200/_5gvBEXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 28,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "evaolsr",
+        "verified": false
+      }
+    ]
+  }
+}

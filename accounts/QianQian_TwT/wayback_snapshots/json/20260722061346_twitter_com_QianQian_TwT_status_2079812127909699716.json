@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2079299567783424244",
+    "created_at": "2026-07-22T06:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T07:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079812127909699716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079812127909699716",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079299567783424244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13142,
+        "height": 720,
+        "media_key": "7_2079299539077627904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2079299539077627904/pu/img/Z9N-erWj1pvcRHKs.jpg",
+        "public_metrics": {
+          "view_count": 238540
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079299539077627904/pu/vid/avc1/320x320/SjgkFtQBrg-ErBGl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079299539077627904/pu/vid/avc1/540x540/tkYKQAT65NlnEs66.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079299539077627904/pu/vid/avc1/720x720/u3yQlalGG7aff5cE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2079299539077627904/pu/pl/MSFkj3GDp7lEPWr9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2079299567783424244",
+        "created_at": "2026-07-22T06:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079812127909699716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079812127909699716",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079299567783424244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079299539077627904"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2079299567783424244",
+        "created_at": "2026-07-20T20:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079299567783424244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cv6u21QPqM",
+              "end": 23,
+              "expanded_url": "https://x.com/neko0202002/status/2079299567783424244/video/1",
+              "media_key": "7_2079299539077627904",
+              "start": 0,
+              "url": "https://t.co/cv6u21QPqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079299567783424244",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2661,
+          "impression_count": 603277,
+          "like_count": 10354,
+          "quote_count": 285,
+          "reply_count": 32,
+          "retweet_count": 2024
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cv6u21QPqM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 56,
+          "like_count": 1341,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 663,
+          "like_count": 2493,
+          "listed_count": 2,
+          "media_count": 2445,
+          "tweet_count": 6477
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

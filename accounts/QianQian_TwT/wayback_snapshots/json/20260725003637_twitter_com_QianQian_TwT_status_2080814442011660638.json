@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2080585111528243201"
+      ],
+      "media_source_tweet_id": [
+        "2080609688731955622"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2080814442011660638",
+    "created_at": "2026-07-25T00:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T01:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080814442011660638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xZAeQLTpX0",
+          "end": 27,
+          "expanded_url": "https://x.com/GIFOOC/status/2080609688731955622/photo/1",
+          "media_key": "16_2080585111528243201",
+          "start": 4,
+          "url": "https://t.co/xZAeQLTpX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080814442011660638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈氣！\nhttps://t.co/xZAeQLTpX0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2080585111528243201",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HN-5IrGbgAEp7ek.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HN-5IrGbgAEp7ek.mp4"
+          }
+        ],
+        "width": 382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2080585111528243201"
+          ]
+        },
+        "author_id": "1130953003",
+        "conversation_id": "2080609688731955622",
+        "created_at": "2026-07-24T11:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080609688731955622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AezgqIAo1z",
+              "end": 23,
+              "expanded_url": "https://x.com/GIFOOC/status/2080609688731955622/photo/1",
+              "media_key": "16_2080585111528243201",
+              "start": 0,
+              "url": "https://t.co/AezgqIAo1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080609688731955622",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2351,
+          "impression_count": 436757,
+          "like_count": 24269,
+          "quote_count": 173,
+          "reply_count": 72,
+          "retweet_count": 2722
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AezgqIAo1z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2080585111528243201"
+          ],
+          "media_source_tweet_id": [
+            "2080609688731955622"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2080814442011660638",
+        "created_at": "2026-07-25T00:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080814442011660638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZAeQLTpX0",
+              "end": 27,
+              "expanded_url": "https://x.com/GIFOOC/status/2080609688731955622/photo/1",
+              "media_key": "16_2080585111528243201",
+              "start": 4,
+              "url": "https://t.co/xZAeQLTpX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080814442011660638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈氣！\nhttps://t.co/xZAeQLTpX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 56,
+          "like_count": 2012,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

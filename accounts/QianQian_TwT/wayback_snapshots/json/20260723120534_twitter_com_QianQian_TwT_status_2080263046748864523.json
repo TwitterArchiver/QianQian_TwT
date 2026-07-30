@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2080218339595653526",
+    "created_at": "2026-07-23T12:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080263046748864523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1701232705386471424",
+          "start": 0,
+          "username": "denka0926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080263046748864523",
+    "in_reply_to_user_id": "1701232705386471424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080218339595653526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@denka0926 這種眼鏡最騷了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080218324349423616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5ri2YbEAAs5XB.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080218324210995200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5ri13a0AAeFvi.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2080218339595653526",
+        "created_at": "2026-07-23T12:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080263046748864523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701232705386471424",
+              "start": 0,
+              "username": "denka0926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080263046748864523",
+        "in_reply_to_user_id": "1701232705386471424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080218339595653526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@denka0926 這種眼鏡最騷了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080218324349423616",
+            "3_2080218324210995200"
+          ]
+        },
+        "author_id": "1701232705386471424",
+        "conversation_id": "2080218339595653526",
+        "created_at": "2026-07-23T09:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080218339595653526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Lg9jMhb7o",
+              "end": 28,
+              "expanded_url": "https://x.com/denka0926/status/2080218339595653526/photo/1",
+              "media_key": "3_2080218324349423616",
+              "start": 5,
+              "url": "https://t.co/6Lg9jMhb7o"
+            },
+            {
+              "display_url": "pic.x.com/6Lg9jMhb7o",
+              "end": 28,
+              "expanded_url": "https://x.com/denka0926/status/2080218339595653526/photo/1",
+              "media_key": "3_2080218324210995200",
+              "start": 5,
+              "url": "https://t.co/6Lg9jMhb7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080218339595653526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 884,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老师好？ https://t.co/6Lg9jMhb7o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 56,
+          "like_count": 1511,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-11T13:54:36.000Z",
+        "description": "they/them/泛性戀/09\n中/粵/Eng\nintj/🇭🇰/adhd/ptsd\n叫睡睡或者猫猫也行有点害羞怕生\n不会聊天不懂怎么经营账号别讨厌我\n皮下女但是性别认同是他们不喜欢被用她称呼\n回人特别慢不要嫌弃我特别敏感脆弱的小猫\n先看完再dm我别问这里有的东西\n不加别的app",
+        "id": "1701232705386471424",
+        "name": "睡睡",
+        "pinned_tweet_id": "2070560115317678275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775426305959542784/BJIB2fLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3869,
+          "following_count": 19,
+          "like_count": 1290,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "denka0926",
+        "verified": false
+      }
+    ]
+  }
+}

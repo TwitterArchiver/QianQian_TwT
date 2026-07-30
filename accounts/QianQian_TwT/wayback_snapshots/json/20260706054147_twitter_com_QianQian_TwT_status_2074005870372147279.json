@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2073950667723718812",
+    "created_at": "2026-07-06T05:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074005870372147279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072258787155816448",
+          "start": 0,
+          "username": "xxs1976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074005870372147279",
+    "in_reply_to_user_id": "2072258787155816448",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074005802181120362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxs1976 Yea"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073950667723718812",
+        "created_at": "2026-07-06T05:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074005870372147279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072258787155816448",
+              "start": 0,
+              "username": "xxs1976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074005870372147279",
+        "in_reply_to_user_id": "2072258787155816448",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074005802181120362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxs1976 Yea"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072258787155816448",
+        "conversation_id": "2073950667723718812",
+        "created_at": "2026-07-06T05:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074005802181120362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074005802181120362",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073950667723718812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT tomato fuck egg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 33,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T10:00:13.000Z",
+        "description": "小学生已正式启用3.0。\nlgbtq全友好 就是别恶心我\n禁止把我的帖转到墙内\n好厚米@ANDEL0426",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "ANDEL0426"
+              }
+            ]
+          }
+        },
+        "id": "2072258787155816448",
+        "name": "高性能小学生3.0",
+        "pinned_tweet_id": "2072262358043439427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072259319593394176/QYNajH1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 151,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "xxs1976",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074734339297058816"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074734341864002005",
+    "created_at": "2026-07-08T05:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074734341864002005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZSnoeWwQoN",
+          "end": 78,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074734341864002005/photo/1",
+          "media_key": "3_2074734339297058816",
+          "start": 55,
+          "url": "https://t.co/ZSnoeWwQoN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074734341864002005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "別來我ngl發騷好嗎 。\n春天明明過了這麼久了 某些公狗還是到處發情呢？找個時間給你們全絕育了哦坤？真噁心。 https://t.co/ZSnoeWwQoN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2074734339297058816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrv46EbIAA8Yas.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074734339297058816"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074734341864002005",
+        "created_at": "2026-07-08T05:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074734341864002005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSnoeWwQoN",
+              "end": 78,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074734341864002005/photo/1",
+              "media_key": "3_2074734339297058816",
+              "start": 55,
+              "url": "https://t.co/ZSnoeWwQoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074734341864002005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "別來我ngl發騷好嗎 。\n春天明明過了這麼久了 某些公狗還是到處發情呢？找個時間給你們全絕育了哦坤？真噁心。 https://t.co/ZSnoeWwQoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 43,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

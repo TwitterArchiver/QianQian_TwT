@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074040493194047488",
+        "3_2074040493726736385"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074040504334135586",
+    "created_at": "2026-07-06T07:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074040504334135586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IX9lZPY9Uf",
+          "end": 65,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074040504334135586/photo/1",
+          "media_key": "3_2074040493194047488",
+          "start": 42,
+          "url": "https://t.co/IX9lZPY9Uf"
+        },
+        {
+          "display_url": "pic.x.com/IX9lZPY9Uf",
+          "end": 65,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074040504334135586/photo/1",
+          "media_key": "3_2074040493726736385",
+          "start": 42,
+          "url": "https://t.co/IX9lZPY9Uf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074040504334135586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我對瘀傷有種獨特的感情 還是說是所有的傷疤？ 紫紫的帶點粉色 雖然青色的也很好看呢 https://t.co/IX9lZPY9Uf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074040493194047488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh41v6bcAAXO8B.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074040493726736385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh41x5boAEcqT-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074040493194047488",
+            "3_2074040493726736385"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074040504334135586",
+        "created_at": "2026-07-06T07:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074040504334135586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IX9lZPY9Uf",
+              "end": 65,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074040504334135586/photo/1",
+              "media_key": "3_2074040493194047488",
+              "start": 42,
+              "url": "https://t.co/IX9lZPY9Uf"
+            },
+            {
+              "display_url": "pic.x.com/IX9lZPY9Uf",
+              "end": 65,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074040504334135586/photo/1",
+              "media_key": "3_2074040493726736385",
+              "start": 42,
+              "url": "https://t.co/IX9lZPY9Uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074040504334135586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我對瘀傷有種獨特的感情 還是說是所有的傷疤？ 紫紫的帶點粉色 雖然青色的也很好看呢 https://t.co/IX9lZPY9Uf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 36,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

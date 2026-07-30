@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2075088088385327205",
+    "created_at": "2026-07-09T10:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075170663514661025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974862287761817600",
+          "start": 0,
+          "username": "berberber_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075170663514661025",
+    "in_reply_to_user_id": "1974862287761817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075088088385327205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berberber_1 姐姐 談不談。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075088083733893120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwxniya0AAtHBI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075088088385327205",
+        "created_at": "2026-07-09T10:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075170663514661025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974862287761817600",
+              "start": 0,
+              "username": "berberber_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075170663514661025",
+        "in_reply_to_user_id": "1974862287761817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075088088385327205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berberber_1 姐姐 談不談。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075088083733893120"
+          ]
+        },
+        "author_id": "1974862287761817600",
+        "conversation_id": "2075088088385327205",
+        "created_at": "2026-07-09T05:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075088088385327205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "le"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "les"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oeM5vCLkZg",
+              "end": 57,
+              "expanded_url": "https://x.com/berberber_1/status/2075088088385327205/photo/1",
+              "media_key": "3_2075088083733893120",
+              "start": 34,
+              "url": "https://t.co/oeM5vCLkZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075088088385327205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3251,
+          "like_count": 288,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "后女友在不在？讨老婆中…卡颜别给我卡死。#le #les #wlw https://t.co/oeM5vCLkZg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 49,
+          "like_count": 514,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T15:40:47.000Z",
+        "description": "🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/liyuyuyuber?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/liyuyuyuber?igsh=MWI4cGk3a3FmOGZpeA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/a2iVZX23MP"
+              }
+            ]
+          }
+        },
+        "id": "1974862287761817600",
+        "location": "🌍",
+        "name": "BerNoct",
+        "pinned_tweet_id": "2044250359858856281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074890110320230400/fYl77pG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2927,
+          "following_count": 5,
+          "like_count": 272,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/a2iVZX23MP",
+        "username": "berberber_1",
+        "verified": false
+      }
+    ]
+  }
+}

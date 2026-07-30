@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074508912066519379",
+    "created_at": "2026-07-08T10:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074795714711093749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "162974851",
+          "start": 0,
+          "username": "Paramjitt"
+        },
+        {
+          "end": 25,
+          "id": "2065149033379971072",
+          "start": 11,
+          "username": "Lomyral896444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074795714711093749",
+    "in_reply_to_user_id": "162974851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074508912066519379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paramjitt @Lomyral896444 我操好鬼畜好可愛。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15137,
+        "height": 1920,
+        "media_key": "13_2074508832576081920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074508832576081920/img/wTlKv9ADqBeaxU3O.jpg",
+        "public_metrics": {
+          "view_count": 287
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074508832576081920/vid/avc1/1080x1920/4hlfVMdMbOpMS-I6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074508832576081920/vid/avc1/720x1280/z7JSETj8poJW3qFH.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074508832576081920/vid/avc1/320x568/qv1oZjAKquvMwX7u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074508832576081920/vid/avc1/480x852/anSQC-s_6W2tbvNa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074508832576081920/pl/oRFZwGkIX0oIQfBl.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074508912066519379",
+        "created_at": "2026-07-08T10:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074795714711093749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "162974851",
+              "start": 0,
+              "username": "Paramjitt"
+            },
+            {
+              "end": 25,
+              "id": "2065149033379971072",
+              "start": 11,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074795714711093749",
+        "in_reply_to_user_id": "162974851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074508912066519379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paramjitt @Lomyral896444 我操好鬼畜好可愛。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074508832576081920"
+          ]
+        },
+        "author_id": "162974851",
+        "conversation_id": "2074508912066519379",
+        "created_at": "2026-07-07T15:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074508912066519379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065149033379971072",
+              "start": 2,
+              "username": "Lomyral896444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZzmzOnn8w",
+              "end": 40,
+              "expanded_url": "https://x.com/Paramjitt/status/2074508912066519379/video/1",
+              "media_key": "13_2074508832576081920",
+              "start": 17,
+              "url": "https://t.co/xZzmzOnn8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074508912066519379",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1190,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👁️@Lomyral896444 https://t.co/xZzmzOnn8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 47,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "16.0互关寻回\n🚪52（加了啥也没有）\n你推六个月封11个号的人，传奇耐封王\n很健全无不良嗜好🤤请和我玩吧！！\nhttps://t.co/TYxFLX9MRG\n休眠号@Shivam3228\n牛马💊 @AminoXx_killer\n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Ririka12208"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 80,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 57,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖（16.0寻回）",
+        "pinned_tweet_id": "2074173391989531076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074674134857232384/-bptbrhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 459,
+          "like_count": 1690,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1119
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|\nINTP/重抑中焦|\n碎碎念推，不吸毒|\n这里是四号机，互关寻回中|\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "Zukawbit"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 453,
+          "like_count": 3911,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 909
+        },
+        "url": "",
+        "username": "Lomyral896444",
+        "verified": true
+      }
+    ]
+  }
+}

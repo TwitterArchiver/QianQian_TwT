@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074530310428270891",
+    "created_at": "2026-07-08T09:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074783120906432742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974862287761817600",
+          "start": 0,
+          "username": "berberber_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074783120906432742",
+    "in_reply_to_user_id": "1974862287761817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074530310428270891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berberber_1 我操 白毛！帥我一臉？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074530305139159040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo2UjmaMAACEPb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074530305105649664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo2Ujea4AAapJX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074530310428270891",
+        "created_at": "2026-07-08T09:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074783120906432742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974862287761817600",
+              "start": 0,
+              "username": "berberber_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074783120906432742",
+        "in_reply_to_user_id": "1974862287761817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074530310428270891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berberber_1 我操 白毛！帥我一臉？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074530305139159040",
+            "3_2074530305105649664"
+          ]
+        },
+        "author_id": "1974862287761817600",
+        "conversation_id": "2074530310428270891",
+        "created_at": "2026-07-07T16:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074530310428270891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i6DQhbKPjy",
+              "end": 26,
+              "expanded_url": "https://x.com/berberber_1/status/2074530310428270891/photo/1",
+              "media_key": "3_2074530305139159040",
+              "start": 3,
+              "url": "https://t.co/i6DQhbKPjy"
+            },
+            {
+              "display_url": "pic.x.com/i6DQhbKPjy",
+              "end": 26,
+              "expanded_url": "https://x.com/berberber_1/status/2074530310428270891/photo/1",
+              "media_key": "3_2074530305105649664",
+              "start": 3,
+              "url": "https://t.co/i6DQhbKPjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074530310428270891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 7662,
+          "like_count": 532,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "深夜 https://t.co/i6DQhbKPjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 46,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T15:40:47.000Z",
+        "description": "👋🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/liyuyuyuber?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/liyuyuyuber?igsh=MWI4cGk3a3FmOGZpeA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/a2iVZX23MP"
+              }
+            ]
+          }
+        },
+        "id": "1974862287761817600",
+        "location": "🌍",
+        "name": "BerNoct",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019438080231632907/RX8m7bij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2900,
+          "following_count": 5,
+          "like_count": 273,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/a2iVZX23MP",
+        "username": "berberber_1",
+        "verified": false
+      }
+    ]
+  }
+}

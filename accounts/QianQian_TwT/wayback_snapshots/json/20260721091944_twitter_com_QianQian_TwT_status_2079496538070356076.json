@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2078938133572493505",
+    "created_at": "2026-07-21T09:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079496538070356076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647929992637190144",
+          "start": 0,
+          "username": "fuhiri_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079496538070356076",
+    "in_reply_to_user_id": "1647929992637190144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078938133572493505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuhiri_sama 我操誰退追我？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2078938133572493505",
+        "created_at": "2026-07-21T09:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079496538070356076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647929992637190144",
+              "start": 0,
+              "username": "fuhiri_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079496538070356076",
+        "in_reply_to_user_id": "1647929992637190144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078938133572493505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuhiri_sama 我操誰退追我？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647929992637190144",
+        "conversation_id": "2078938133572493505",
+        "created_at": "2026-07-19T20:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078938133572493505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078938133572493505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草誰退追我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 55,
+          "like_count": 1208,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-17T11:48:54.000Z",
+        "description": "🇭🇰07 前世是魔法少女✝️廢文多，我很有禮貌不會隨便罵人所以快點來關注我吧🥺",
+        "id": "1647929992637190144",
+        "location": "Hong Kong",
+        "name": "比率分",
+        "pinned_tweet_id": "2066919251152339131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811145562252783616/zpwXbHN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 204,
+          "like_count": 8452,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 981
+        },
+        "url": "",
+        "username": "fuhiri_sama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2079456739070734838",
+    "created_at": "2026-07-25T06:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080909192110673981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "985466659929501696",
+          "start": 0,
+          "username": "Dolliso5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080909192110673981",
+    "in_reply_to_user_id": "985466659929501696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080897999945756911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dolliso5 因為我od雌二醇（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2079456739070734838",
+        "created_at": "2026-07-25T06:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080909192110673981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "985466659929501696",
+              "start": 0,
+              "username": "Dolliso5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080909192110673981",
+        "in_reply_to_user_id": "985466659929501696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080897999945756911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dolliso5 因為我od雌二醇（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "985466659929501696",
+        "conversation_id": "2079456739070734838",
+        "created_at": "2026-07-25T06:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080897999945756911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080897999945756911",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079456739070734838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 怎么还有扔子🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 56,
+          "like_count": 2043,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-15T10:35:35.000Z",
+        "description": "解放神学✝️",
+        "id": "985466659929501696",
+        "location": "Peking",
+        "name": "小靜🏳️‍⚧️🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077877380023291904/Sv1kmsjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 69,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "Dolliso5",
+        "verified": false
+      }
+    ]
+  }
+}

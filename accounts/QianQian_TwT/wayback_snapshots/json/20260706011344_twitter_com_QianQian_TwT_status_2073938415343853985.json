@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073938409484406784"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2073938415343853985",
+    "created_at": "2026-07-06T01:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T02:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073938415343853985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aJXCBUcB42",
+          "end": 47,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2073938415343853985/photo/1",
+          "media_key": "3_2073938409484406784",
+          "start": 24,
+          "url": "https://t.co/aJXCBUcB42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073938415343853985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "誰問了？\nbtw我有對象 我嘲笑你 哈 哈 哈 https://t.co/aJXCBUcB42"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2073938409484406784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgb_sdbUAAuuKk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073938409484406784"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073938415343853985",
+        "created_at": "2026-07-06T01:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073938415343853985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJXCBUcB42",
+              "end": 47,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2073938415343853985/photo/1",
+              "media_key": "3_2073938409484406784",
+              "start": 24,
+              "url": "https://t.co/aJXCBUcB42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073938415343853985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰問了？\nbtw我有對象 我嘲笑你 哈 哈 哈 https://t.co/aJXCBUcB42"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 29,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

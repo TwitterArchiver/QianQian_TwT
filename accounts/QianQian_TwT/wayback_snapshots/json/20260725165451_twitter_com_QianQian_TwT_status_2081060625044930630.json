@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2081013565226676466",
+    "created_at": "2026-07-25T16:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081060625044930630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990757095516614657",
+          "start": 0,
+          "username": "guo1988398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081060625044930630",
+    "in_reply_to_user_id": "1990757095516614657",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081057856942674409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guo1988398 ？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15090,
+        "height": 960,
+        "media_key": "13_2081057824126455808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081057824126455808/img/vpV8ZB4nZuf6t8r7.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081057824126455808/vid/avc1/320x426/_yvuxASviHiNHqsn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081057824126455808/vid/avc1/480x640/CJdFVJ80Lo8tMXHZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081057824126455808/vid/avc1/720x960/vpLma0FHe73C8bP9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081057824126455808/pl/N7loCUnE9pfqEUdD.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2081013565226676466",
+        "created_at": "2026-07-25T16:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081060625044930630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990757095516614657",
+              "start": 0,
+              "username": "guo1988398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081060625044930630",
+        "in_reply_to_user_id": "1990757095516614657",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081057856942674409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guo1988398 ？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081057824126455808"
+          ]
+        },
+        "author_id": "1990757095516614657",
+        "conversation_id": "2081013565226676466",
+        "created_at": "2026-07-25T16:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081057856942674409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOTkMKfmyN",
+              "end": 45,
+              "expanded_url": "https://x.com/guo1988398/status/2081057856942674409/video/1",
+              "media_key": "13_2081057824126455808",
+              "start": 22,
+              "url": "https://t.co/eOTkMKfmyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081057856942674409",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081013565226676466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 我有你跳舞视频 https://t.co/eOTkMKfmyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 56,
+          "like_count": 2104,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-18T12:21:47.000Z",
+        "description": "可以私信我倾诉原生家庭，或者你心情很糟需要安慰",
+        "id": "1990757095516614657",
+        "name": "鲤鱼的梦༺",
+        "pinned_tweet_id": "2075945313345655001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032555170253721600/_hijgiXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 202,
+          "like_count": 2918,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "guo1988398",
+        "verified": false
+      }
+    ]
+  }
+}

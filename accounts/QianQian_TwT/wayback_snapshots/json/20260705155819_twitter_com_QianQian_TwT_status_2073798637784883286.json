@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2073798637784883286",
+    "created_at": "2026-07-05T15:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073798637784883286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 59,
+          "id": "2047894021457211393",
+          "start": 43,
+          "username": "FanQie_QianQian"
+        },
+        {
+          "end": 158,
+          "id": "2064786063290474496",
+          "start": 146,
+          "username": "Meow_Lego12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073798637784883286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操蛋第12世（準確來說是13（有一個是超裏垢 在後面會提到）\n又要從0開始了…前世為 @FanQie_QianQian \n好不容易快1k5 followers 了 結果遭惡意舉報 永封了\n我好難過 我什麼都沒有了 我不想再被封了 我不想再失去了 這個號我只會發自拍 \n日常負能碎碎唸我會放在 @Meow_Lego12 私密帳號 只通過熟悉的互關"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [FanQie_QianQian].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "FanQie_QianQian",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "FanQie_QianQian"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073798637784883286",
+        "created_at": "2026-07-05T15:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073798637784883286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 59,
+              "id": "2047894021457211393",
+              "start": 43,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 158,
+              "id": "2064786063290474496",
+              "start": 146,
+              "username": "Meow_Lego12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073798637784883286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋第12世（準確來說是13（有一個是超裏垢 在後面會提到）\n又要從0開始了…前世為 @FanQie_QianQian \n好不容易快1k5 followers 了 結果遭惡意舉報 永封了\n我好難過 我什麼都沒有了 我不想再被封了 我不想再失去了 這個號我只會發自拍 \n日常負能碎碎唸我會放在 @Meow_Lego12 私密帳號 只通過熟悉的互關"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T19:06:48.000Z",
+        "description": "",
+        "id": "2064786063290474496",
+        "name": "名稱不可為空白",
+        "pinned_tweet_id": "2064789040877203579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073172931753201664/RfhOtnrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "Meow_Lego12",
+        "verified": false
+      }
+    ]
+  }
+}

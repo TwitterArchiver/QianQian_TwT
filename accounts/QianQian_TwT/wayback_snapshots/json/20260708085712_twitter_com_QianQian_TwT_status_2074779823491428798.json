@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074519021354115365",
+    "created_at": "2026-07-08T08:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074779823491428798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074779823491428798",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074519021354115365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 騷逼。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074517877970059265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMorBMyaQAEfh8b.jpg",
+        "width": 1919
+      },
+      {
+        "height": 2457,
+        "media_key": "3_2074518999854125056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMosCgIakAA5MeO.jpg",
+        "width": 3276
+      },
+      {
+        "height": 2457,
+        "media_key": "3_2074519002228121600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMosCo-a4AAOYmU.jpg",
+        "width": 3276
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2074517883192061952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMorBgPbsAA4g-M.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074519021354115365",
+        "created_at": "2026-07-08T08:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074779823491428798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074779823491428798",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074519021354115365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 騷逼。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074517877970059265",
+            "3_2074518999854125056",
+            "3_2074519002228121600",
+            "3_2074517883192061952"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074519021354115365",
+        "created_at": "2026-07-07T15:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074519021354115365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAXFsKzG1P",
+              "end": 26,
+              "expanded_url": "https://x.com/yu_huacs/status/2074519021354115365/photo/1",
+              "media_key": "3_2074517877970059265",
+              "start": 3,
+              "url": "https://t.co/nAXFsKzG1P"
+            },
+            {
+              "display_url": "pic.x.com/nAXFsKzG1P",
+              "end": 26,
+              "expanded_url": "https://x.com/yu_huacs/status/2074519021354115365/photo/1",
+              "media_key": "3_2074518999854125056",
+              "start": 3,
+              "url": "https://t.co/nAXFsKzG1P"
+            },
+            {
+              "display_url": "pic.x.com/nAXFsKzG1P",
+              "end": 26,
+              "expanded_url": "https://x.com/yu_huacs/status/2074519021354115365/photo/1",
+              "media_key": "3_2074519002228121600",
+              "start": 3,
+              "url": "https://t.co/nAXFsKzG1P"
+            },
+            {
+              "display_url": "pic.x.com/nAXFsKzG1P",
+              "end": 26,
+              "expanded_url": "https://x.com/yu_huacs/status/2074519021354115365/photo/1",
+              "media_key": "3_2074517883192061952",
+              "start": 3,
+              "url": "https://t.co/nAXFsKzG1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074519021354115365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1679,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试衣 https://t.co/nAXFsKzG1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 46,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "双相/准备复学中 成分复杂 ＃overdose！\nshanghai路上随机刷新的公路车手\n热衷于公路车/宅系/男娘/少有cos内容 一个公路车技师 二次元/cosplay/摄影/割手/od\n最喜欢世界第一萌の爱人 @yekatinez    哦尼酱@silentbleeding1     里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 107,
+                "username": "yekatinez"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 160,
+                "start": 148,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2073754389542830144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1486,
+          "like_count": 121998,
+          "listed_count": 8,
+          "media_count": 2141,
+          "tweet_count": 20254
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

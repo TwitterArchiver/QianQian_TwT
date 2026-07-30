@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074081891309998080",
+        "3_2074081891440001024",
+        "3_2074081893004488704"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074081901204422838",
+    "created_at": "2026-07-06T10:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074081901204422838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RYE46Pllq5",
+          "end": 110,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074081901204422838/photo/1",
+          "media_key": "3_2074081891309998080",
+          "start": 87,
+          "url": "https://t.co/RYE46Pllq5"
+        },
+        {
+          "display_url": "pic.x.com/RYE46Pllq5",
+          "end": 110,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074081901204422838/photo/1",
+          "media_key": "3_2074081891440001024",
+          "start": 87,
+          "url": "https://t.co/RYE46Pllq5"
+        },
+        {
+          "display_url": "pic.x.com/RYE46Pllq5",
+          "end": 110,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074081901204422838/photo/1",
+          "media_key": "3_2074081893004488704",
+          "start": 87,
+          "url": "https://t.co/RYE46Pllq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074081901204422838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "誰問了？\n\n做夢去吧 噁心 性壓抑 大叔 龜男 你啥玩意啊你就約我 你配嗎我就問了\n\n我操呀大叔 我真的求你了吧 不要以為每個上推的女孩都是賣逼的行不 噁心死了 你給我滾啊 https://t.co/RYE46Pllq5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2074081891309998080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiefb6aUAAU9rP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2074081891440001024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiefcZaAAA133P.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2074081893004488704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiefiOaMAAL7Av.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074081891309998080",
+            "3_2074081891440001024",
+            "3_2074081893004488704"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074081901204422838",
+        "created_at": "2026-07-06T10:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074081901204422838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RYE46Pllq5",
+              "end": 110,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074081901204422838/photo/1",
+              "media_key": "3_2074081891309998080",
+              "start": 87,
+              "url": "https://t.co/RYE46Pllq5"
+            },
+            {
+              "display_url": "pic.x.com/RYE46Pllq5",
+              "end": 110,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074081901204422838/photo/1",
+              "media_key": "3_2074081891440001024",
+              "start": 87,
+              "url": "https://t.co/RYE46Pllq5"
+            },
+            {
+              "display_url": "pic.x.com/RYE46Pllq5",
+              "end": 110,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074081901204422838/photo/1",
+              "media_key": "3_2074081893004488704",
+              "start": 87,
+              "url": "https://t.co/RYE46Pllq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074081901204422838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰問了？\n\n做夢去吧 噁心 性壓抑 大叔 龜男 你啥玩意啊你就約我 你配嗎我就問了\n\n我操呀大叔 我真的求你了吧 不要以為每個上推的女孩都是賣逼的行不 噁心死了 你給我滾啊 https://t.co/RYE46Pllq5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 37,
+          "like_count": 185,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

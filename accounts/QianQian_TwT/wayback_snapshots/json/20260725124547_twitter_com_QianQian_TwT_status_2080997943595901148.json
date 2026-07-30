@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075653624706056192"
+      ],
+      "media_source_tweet_id": [
+        "2075653630414512228"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2080997943595901148",
+    "created_at": "2026-07-25T12:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080997943595901148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vw0RyRhgSz",
+          "end": 45,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2075653630414512228/photo/1",
+          "media_key": "3_2075653624706056192",
+          "start": 22,
+          "url": "https://t.co/Vw0RyRhgSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080997943595901148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075653630414512228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 無加工 https://t.co/Vw0RyRhgSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2075653624706056192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4z-XFbQAArERB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075653624706056192"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075653630414512228",
+        "created_at": "2026-07-10T18:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075653630414512228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vw0RyRhgSz",
+              "end": 27,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2075653630414512228/photo/1",
+              "media_key": "3_2075653624706056192",
+              "start": 4,
+              "url": "https://t.co/Vw0RyRhgSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075653630414512228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4889,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "無加工 https://t.co/Vw0RyRhgSz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075653624706056192"
+          ],
+          "media_source_tweet_id": [
+            "2075653630414512228"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2080997943595901148",
+        "created_at": "2026-07-25T12:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080997943595901148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vw0RyRhgSz",
+              "end": 45,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2075653630414512228/photo/1",
+              "media_key": "3_2075653624706056192",
+              "start": 22,
+              "url": "https://t.co/Vw0RyRhgSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080997943595901148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075653630414512228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 無加工 https://t.co/Vw0RyRhgSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 56,
+          "like_count": 2061,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

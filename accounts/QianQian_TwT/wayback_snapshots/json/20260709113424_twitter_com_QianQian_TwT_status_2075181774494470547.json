@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075181768626544640"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2075181774494470547",
+    "created_at": "2026-07-09T11:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075181774494470547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9wCywTmEky",
+          "end": 158,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2075181774494470547/photo/1",
+          "media_key": "3_2075181768626544640",
+          "start": 135,
+          "url": "https://t.co/9wCywTmEky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075181774494470547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我知道現在很多人都在看著我 我想搞清楚的是 ：\n首先我割手沒往你手上割 其次我嗑藥沒給你下藥 吸煙也沒讓慫恿你跟我一起吸 我只是想用這些方法去放鬆 不要因為這些討厭我就好 \n我把校內跟校外的界線分得很清楚 不要因為這些疏遠我 討厭我就好 拜託了 我不想被泥們討厭qwq https://t.co/9wCywTmEky"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2075181768626544640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyG0uNaIAAf_cR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075181768626544640"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075181774494470547",
+        "created_at": "2026-07-09T11:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075181774494470547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wCywTmEky",
+              "end": 158,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2075181774494470547/photo/1",
+              "media_key": "3_2075181768626544640",
+              "start": 135,
+              "url": "https://t.co/9wCywTmEky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075181774494470547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道現在很多人都在看著我 我想搞清楚的是 ：\n首先我割手沒往你手上割 其次我嗑藥沒給你下藥 吸煙也沒讓慫恿你跟我一起吸 我只是想用這些方法去放鬆 不要因為這些討厭我就好 \n我把校內跟校外的界線分得很清楚 不要因為這些疏遠我 討厭我就好 拜託了 我不想被泥們討厭qwq https://t.co/9wCywTmEky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 49,
+          "like_count": 598,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

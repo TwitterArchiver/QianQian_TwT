@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2074696629937185271",
+    "created_at": "2026-07-08T09:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074780687350333651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "162974851",
+          "start": 0,
+          "username": "Paramjitt"
+        },
+        {
+          "end": 24,
+          "id": "2073051300842106881",
+          "start": 11,
+          "username": "zhanxixijiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074780687350333651",
+    "in_reply_to_user_id": "162974851",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074696629937185271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paramjitt @zhanxixijiao 笑嘻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074696620709740544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrNlZYbgAAuFe3.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074696629937185271",
+        "created_at": "2026-07-08T09:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074780687350333651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "162974851",
+              "start": 0,
+              "username": "Paramjitt"
+            },
+            {
+              "end": 24,
+              "id": "2073051300842106881",
+              "start": 11,
+              "username": "zhanxixijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074780687350333651",
+        "in_reply_to_user_id": "162974851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074696629937185271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paramjitt @zhanxixijiao 笑嘻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074696620709740544"
+          ]
+        },
+        "author_id": "162974851",
+        "conversation_id": "2074696629937185271",
+        "created_at": "2026-07-08T03:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074696629937185271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2073051300842106881",
+              "start": 4,
+              "username": "zhanxixijiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KDWbCeKTx",
+              "end": 50,
+              "expanded_url": "https://x.com/Paramjitt/status/2074696629937185271/photo/1",
+              "media_key": "3_2074696620709740544",
+              "start": 27,
+              "url": "https://t.co/3KDWbCeKTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074696629937185271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 721,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "望周知🤤@zhanxixijiao 再次被msk砍似 https://t.co/3KDWbCeKTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 46,
+          "like_count": 305,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "16.0互关寻回\n🚪52（加了啥也没有）\n你推六个月封11个号的人，传奇耐封王\n很健全无不良嗜好🤤请和我玩吧！！\nhttps://t.co/TYxFLX9MRG\n休眠号@Shivam3228\n牛马💊 @AminoXx_killer\n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Ririka12208"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 80,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 57,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖（16.0寻回）",
+        "pinned_tweet_id": "2074173391989531076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074674134857232384/-bptbrhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 459,
+          "like_count": 1685,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-03T14:29:44.000Z",
+        "description": "@zhanxixijian 前世已被马斯克砍死💤\n回关扩列请私信\n爱我请给百乐打钱💰 🚪52",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "zhanxixijian"
+              }
+            ]
+          }
+        },
+        "id": "2073051300842106881",
+        "location": "广州",
+        "name": "佑一2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073052233353359360/2z6qgbVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 42,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "zhanxixijiao",
+        "verified": false
+      }
+    ]
+  }
+}

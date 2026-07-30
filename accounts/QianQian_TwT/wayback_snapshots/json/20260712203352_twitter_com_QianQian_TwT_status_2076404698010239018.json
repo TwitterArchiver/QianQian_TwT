@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2076396236186497247",
+    "created_at": "2026-07-12T20:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076404698010239018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1805047599256494080",
+          "start": 0,
+          "username": "rn6zw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076404698010239018",
+    "in_reply_to_user_id": "1805047599256494080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076396236186497247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rn6zw0 捲毛修勾🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076396219832934400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNDXXFgbIAA4-ow.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2076396236186497247",
+        "created_at": "2026-07-12T20:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076404698010239018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1805047599256494080",
+              "start": 0,
+              "username": "rn6zw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076404698010239018",
+        "in_reply_to_user_id": "1805047599256494080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076396236186497247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rn6zw0 捲毛修勾🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076396219832934400"
+          ]
+        },
+        "author_id": "1805047599256494080",
+        "conversation_id": "2076396236186497247",
+        "created_at": "2026-07-12T20:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076396236186497247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4x9AQRVG3",
+              "end": 30,
+              "expanded_url": "https://x.com/rn6zw0/status/2076396236186497247/photo/1",
+              "media_key": "3_2076396219832934400",
+              "start": 7,
+              "url": "https://t.co/U4x9AQRVG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076396236186497247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是狗還是狼 https://t.co/U4x9AQRVG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 53,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-24T01:17:49.000Z",
+        "description": "Les｜09｜HK｜ Self-harm｜OD｜成份複雜",
+        "id": "1805047599256494080",
+        "location": "🚪50",
+        "name": "小睡",
+        "pinned_tweet_id": "2040488973508940220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007966344122351616/74Sgbo2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 305,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 894
+        },
+        "url": "",
+        "username": "rn6zw0",
+        "verified": false
+      }
+    ]
+  }
+}

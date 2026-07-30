@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2073811033744171495",
+    "created_at": "2026-07-08T05:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074726850522390919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004802306873982977",
+          "start": 0,
+          "username": "Len10x0"
+        },
+        {
+          "end": 25,
+          "id": "2047894021457211393",
+          "start": 9,
+          "username": "FanQie_QianQian"
+        },
+        {
+          "end": 38,
+          "id": "2050947066709573632",
+          "start": 26,
+          "username": "KetChup_Mew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074726850522390919",
+    "in_reply_to_user_id": "2004802306873982977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074308522737803689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Len10x0 @FanQie_QianQian @KetChup_Mew 哼哼哼"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [FanQie_QianQian].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "FanQie_QianQian",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "FanQie_QianQian"
+    },
+    {
+      "detail": "User has been suspended: [KetChup_Mew].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "KetChup_Mew",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "KetChup_Mew"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073811033744171495",
+        "created_at": "2026-07-08T05:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074726850522390919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004802306873982977",
+              "start": 0,
+              "username": "Len10x0"
+            },
+            {
+              "end": 25,
+              "id": "2047894021457211393",
+              "start": 9,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 38,
+              "id": "2050947066709573632",
+              "start": 26,
+              "username": "KetChup_Mew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074726850522390919",
+        "in_reply_to_user_id": "2004802306873982977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074308522737803689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Len10x0 @FanQie_QianQian @KetChup_Mew 哼哼哼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004802306873982977",
+        "conversation_id": "2073811033744171495",
+        "created_at": "2026-07-07T01:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074308522737803689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 30,
+              "id": "2047894021457211393",
+              "start": 14,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 43,
+              "id": "2050947066709573632",
+              "start": 31,
+              "username": "KetChup_Mew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074308522737803689",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073811033744171495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT @FanQie_QianQian @KetChup_Mew 回来就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 43,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "泛性恋偏le老婆 @55ghcgxc\n#日系#餐券#地雷系#od\n双相患者2011.8.7\n同类互fo 可以叫我深晟或者小冷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "55ghcgxc"
+              }
+            ]
+          }
+        },
+        "id": "2004802306873982977",
+        "location": "🚪52/88/188上不封顶不退",
+        "name": "冷幻觉（恶俗版",
+        "pinned_tweet_id": "2071854427619926090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071937367934369793/cVS-k0I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 250,
+          "like_count": 1624,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "Len10x0",
+        "verified": false
+      }
+    ]
+  }
+}
