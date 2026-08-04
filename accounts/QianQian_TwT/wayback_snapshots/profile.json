@@ -1,7 +1,7 @@
 {
   "name": "番茄操蛋",
   "username": "@QianQian_TwT",
-  "bio": "LGBTQ 全友好？！交友大歡迎！！ 狗修金♡ @7q468438x8964",
+  "bio": "狗修金♡ @7q468438x8964",
   "location": "",
   "link": "https://ngl.link/_tomato._.fanqie_2",
   "avatar": "avatar/avatar.jpg",
@@ -10,8 +10,8 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 38,
-        "start": 24,
+        "end": 19,
+        "start": 5,
         "username": "7q468438x8964"
       }
     ]
