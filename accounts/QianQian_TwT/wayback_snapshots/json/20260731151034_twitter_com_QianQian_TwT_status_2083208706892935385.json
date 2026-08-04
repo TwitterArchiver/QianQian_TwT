@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083057600216871404",
+    "created_at": "2026-07-31T15:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083208706892935385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759548889592631296",
+          "start": 0,
+          "username": "o3744597755550"
+        },
+        {
+          "end": 32,
+          "id": "2047894021457211393",
+          "start": 16,
+          "username": "FanQie_QianQian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083208706892935385",
+    "in_reply_to_user_id": "1759548889592631296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083185755472764944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o3744597755550 @FanQie_QianQian 好呀好呀🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083057600216871404",
+        "created_at": "2026-07-31T15:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083208706892935385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759548889592631296",
+              "start": 0,
+              "username": "o3744597755550"
+            },
+            {
+              "end": 32,
+              "id": "2047894021457211393",
+              "start": 16,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083208706892935385",
+        "in_reply_to_user_id": "1759548889592631296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083185755472764944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o3744597755550 @FanQie_QianQian 好呀好呀🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759548889592631296",
+        "conversation_id": "2083057600216871404",
+        "created_at": "2026-07-31T13:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083185755472764944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083185755472764944",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083057600216871404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 我发的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 56,
+          "like_count": 2412,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T12:02:09.000Z",
+        "description": "",
+        "id": "1759548889592631296",
+        "name": "oiyloveu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078709674724216832/o80XerZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 125,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "o3744597755550",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964\n\n另一個我 @QianQian_TwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "QianQian_TwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615646304612352/tvT9kcsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 108,
+          "like_count": 5792,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 2216
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083881568695926788",
+    "created_at": "2026-08-02T19:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083997588991402116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "star27810544557"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083997588991402116",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083881568695926788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@star27810544557 杯子姐憋半天就只能說這一句嗎到底誰幾吧想吃她的逼我真繃不住了\n算了吧因為我们普通顺直女就是很爱锐评呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083881557438390272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtvPFEaYAA9jJK.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083881568695926788",
+        "created_at": "2026-08-02T19:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083997588991402116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "star27810544557"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083997588991402116",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083881568695926788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@star27810544557 杯子姐憋半天就只能說這一句嗎到底誰幾吧想吃她的逼我真繃不住了\n算了吧因為我们普通顺直女就是很爱锐评呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083881557438390272"
+          ]
+        },
+        "author_id": "1947765957658873860",
+        "conversation_id": "2083881568695926788",
+        "created_at": "2026-08-02T11:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083881568695926788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8HCizZvs9J",
+              "end": 162,
+              "expanded_url": "https://x.com/star27810544557/status/2083881568695926788/photo/1",
+              "media_key": "3_2083881557438390272",
+              "start": 139,
+              "url": "https://t.co/8HCizZvs9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083881568695926788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2588,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "杯子姐我扣几个字气的直接不给我吃逼了，一边疯狂发顺直语录给自己发人籍抬咖结果又上赶着物化自己，把自己唯一的性价值暴露无疑，我一没有向你索取什么，其次你一个那么看不起卖淫od的高尚女，怎么张口闭口全是您的生殖器？你发了那么多媚男照但还是没能钓到鱼，你想想，你真的比卖淫的人高尚吗 https://t.co/8HCizZvs9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 61,
+          "like_count": 2695,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "右 反共 顺直勿扰 友LGBTQ 如果立场不同请不要关注我 随时销号",
+        "id": "1947765957658873860",
+        "name": "爱国者8964",
+        "pinned_tweet_id": "2083571963524690387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082348386540503040/YBhcS1rX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 60,
+          "like_count": 1361,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 836
+        },
+        "url": "",
+        "username": "star27810544557",
+        "verified": false
+      }
+    ]
+  }
+}

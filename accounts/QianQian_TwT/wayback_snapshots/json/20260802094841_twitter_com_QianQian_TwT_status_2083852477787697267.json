@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083852477787697267",
+    "created_at": "2026-08-02T09:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083852477787697267"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083852477787697267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想獨佔你 你的時間你的身體你的愛你的全部 我要你做什麼都會想著我 一點小事都要跟我報備 每天所有的社交就是陪著我 不許有我以外的人跟你說話跟你玩 我們之間只可以有彼此 外人什麼的也可以是你出軌的機會 不許理他們 我會一直盯著你盯著你盯著你！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083852477787697267",
+        "created_at": "2026-08-02T09:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083852477787697267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083852477787697267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想獨佔你 你的時間你的身體你的愛你的全部 我要你做什麼都會想著我 一點小事都要跟我報備 每天所有的社交就是陪著我 不許有我以外的人跟你說話跟你玩 我們之間只可以有彼此 外人什麼的也可以是你出軌的機會 不許理他們 我會一直盯著你盯著你盯著你！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 59,
+          "like_count": 2664,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

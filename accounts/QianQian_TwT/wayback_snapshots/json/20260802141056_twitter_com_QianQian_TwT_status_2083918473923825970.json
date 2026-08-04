@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083730052878123308",
+    "created_at": "2026-08-02T14:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083918473923825970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2023656752202608641",
+          "start": 0,
+          "username": "Yoooookii0617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083918473923825970",
+    "in_reply_to_user_id": "2023656752202608641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083916942436692065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoooookii0617 謝謝泥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083730052878123308",
+        "created_at": "2026-08-02T14:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083918473923825970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2023656752202608641",
+              "start": 0,
+              "username": "Yoooookii0617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083918473923825970",
+        "in_reply_to_user_id": "2023656752202608641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083916942436692065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoooookii0617 謝謝泥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023656752202608641",
+        "conversation_id": "2083730052878123308",
+        "created_at": "2026-08-02T14:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083916942436692065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083916942436692065",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083730052878123308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 你好萌。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 59,
+          "like_count": 2684,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T07:12:34.000Z",
+        "description": "le p0m ip天津 单身中\n当朋友圈发 喜欢有礼貌的人 欢迎来找我聊天\n男的绝对NG 男的关注我全死了\n我的提问箱➡️ https://t.co/BdvWQ03Jet",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoooooki1",
+                "end": 85,
+                "expanded_url": "https://ngl.link/yoooooki1",
+                "start": 62,
+                "url": "https://t.co/BdvWQ03Jet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoooooki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoooooki1",
+                "start": 0,
+                "url": "https://t.co/BdvWQ03Jet"
+              }
+            ]
+          }
+        },
+        "id": "2023656752202608641",
+        "location": "安眠地",
+        "name": "Yoooookii",
+        "pinned_tweet_id": "2082161036623560743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023656932570218496/ZUE3aRgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 105,
+          "like_count": 726,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/BdvWQ03Jet",
+        "username": "Yoooookii0617",
+        "verified": false
+      }
+    ]
+  }
+}

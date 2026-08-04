@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084217470798471168",
+        "3_2084217479057051648"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2084217486015385656",
+    "created_at": "2026-08-03T09:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084217486015385656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/_tomato._.fanq…",
+          "end": 42,
+          "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2083999452113813505/uo_xEf8t?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083999452113813505/uo_xEf8t?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 19,
+          "status": 200,
+          "title": "@_tomato._.fanqie_: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/_tomato._.fanqie_2",
+          "url": "https://t.co/QHANlYLUbj"
+        },
+        {
+          "display_url": "pic.x.com/Dj3z0Qy9xu",
+          "end": 66,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2084217486015385656/photo/1",
+          "media_key": "3_2084217470798471168",
+          "start": 43,
+          "url": "https://t.co/Dj3z0Qy9xu"
+        },
+        {
+          "display_url": "pic.x.com/Dj3z0Qy9xu",
+          "end": 66,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2084217486015385656/photo/1",
+          "media_key": "3_2084217479057051648",
+          "start": 43,
+          "url": "https://t.co/Dj3z0Qy9xu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084217486015385656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不願意。你的媽媽也爆炸了。\n\n有。\n\nhttps://t.co/QHANlYLUbj https://t.co/Dj3z0Qy9xu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_2084217470798471168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOygvz2bIAAaJrD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 748,
+        "media_key": "3_2084217479057051648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOygwSnbEAArxoA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084217470798471168",
+            "3_2084217479057051648"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2084217486015385656",
+        "created_at": "2026-08-03T09:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084217486015385656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/_tomato._.fanq…",
+              "end": 42,
+              "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2083999452113813505/uo_xEf8t?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083999452113813505/uo_xEf8t?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "@_tomato._.fanqie_: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/_tomato._.fanqie_2",
+              "url": "https://t.co/QHANlYLUbj"
+            },
+            {
+              "display_url": "pic.x.com/Dj3z0Qy9xu",
+              "end": 66,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2084217486015385656/photo/1",
+              "media_key": "3_2084217470798471168",
+              "start": 43,
+              "url": "https://t.co/Dj3z0Qy9xu"
+            },
+            {
+              "display_url": "pic.x.com/Dj3z0Qy9xu",
+              "end": 66,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2084217486015385656/photo/1",
+              "media_key": "3_2084217479057051648",
+              "start": 43,
+              "url": "https://t.co/Dj3z0Qy9xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084217486015385656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不願意。你的媽媽也爆炸了。\n\n有。\n\nhttps://t.co/QHANlYLUbj https://t.co/Dj3z0Qy9xu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 61,
+          "like_count": 2731,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

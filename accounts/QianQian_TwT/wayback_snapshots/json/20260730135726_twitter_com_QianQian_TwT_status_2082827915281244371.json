@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082539041892032720",
+    "created_at": "2026-07-30T13:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082827915281244371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2064542363595493376",
+          "start": 0,
+          "username": "ToriNoelle003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082827915281244371",
+    "in_reply_to_user_id": "2064542363595493376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082539041892032720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToriNoelle003 可以偷飛機杯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082539011734900736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaqMolaEAAV6t5.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082539031079075840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaqNwpawAAaQ-P.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082539041892032720",
+        "created_at": "2026-07-30T13:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082827915281244371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064542363595493376",
+              "start": 0,
+              "username": "ToriNoelle003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082827915281244371",
+        "in_reply_to_user_id": "2064542363595493376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082539041892032720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToriNoelle003 可以偷飛機杯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082539011734900736",
+            "3_2082539031079075840"
+          ]
+        },
+        "author_id": "2064542363595493376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082539041892032720",
+        "created_at": "2026-07-29T18:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082539041892032720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCJieiUln6",
+              "end": 39,
+              "expanded_url": "https://x.com/ToriNoelle003/status/2082539041892032720/photo/1",
+              "media_key": "3_2082539011734900736",
+              "start": 16,
+              "url": "https://t.co/xCJieiUln6"
+            },
+            {
+              "display_url": "pic.x.com/xCJieiUln6",
+              "end": 39,
+              "expanded_url": "https://x.com/ToriNoelle003/status/2082539041892032720/photo/1",
+              "media_key": "3_2082539031079075840",
+              "start": 16,
+              "url": "https://t.co/xCJieiUln6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082539041892032720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深夜逛donki？完全包場了。 https://t.co/xCJieiUln6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 54,
+          "like_count": 2321,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T02:58:59.000Z",
+        "description": "“為遠去的鳥兒獻上革命的花朵。”\n（前世@DKR_World）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "DKR_World"
+              }
+            ]
+          }
+        },
+        "id": "2064542363595493376",
+        "location": "東京暴動革命支部",
+        "name": "◎東亞躁鬱革委會",
+        "pinned_tweet_id": "2077760203894947996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 126,
+          "like_count": 1630,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "ToriNoelle003",
+        "verified": false
+      }
+    ]
+  }
+}

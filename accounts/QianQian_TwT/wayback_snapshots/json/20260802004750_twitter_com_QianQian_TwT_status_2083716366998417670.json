@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083716366998417670",
+    "created_at": "2026-08-02T00:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T01:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083716366998417670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1665304321066684416",
+          "start": 3,
+          "username": "OoOooo0518"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can contact @melody_tik right away.",
+          "display_url": "t.me/melody_tik",
+          "end": 55,
+          "expanded_url": "https://t.me/melody_tik",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2082404365516845056/RaVZqiGZ?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2082404365516845056/RaVZqiGZ?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "泡 O",
+          "unwound_url": "https://t.me/melody_tik",
+          "url": "https://t.co/3eNKaRtRjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083716366998417670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083715557652889869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OoOooo0518: 本人提供免费药物咨询 推荐电报：https://t.co/3eNKaRtRjh （X私信容易被屏蔽）本人虽然对药理学了解不多但是能od和不能od的药和物质都尝试过很多了，你在od前如果有什么疑问可以先来问我！\n比如想知道od之后有什么感觉 可能有…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083716366998417670",
+        "created_at": "2026-08-02T00:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083716366998417670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1665304321066684416",
+              "start": 3,
+              "username": "OoOooo0518"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can contact @melody_tik right away.",
+              "display_url": "t.me/melody_tik",
+              "end": 55,
+              "expanded_url": "https://t.me/melody_tik",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2082404365516845056/RaVZqiGZ?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082404365516845056/RaVZqiGZ?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "泡 O",
+              "unwound_url": "https://t.me/melody_tik",
+              "url": "https://t.co/3eNKaRtRjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083716366998417670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083715557652889869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OoOooo0518: 本人提供免费药物咨询 推荐电报：https://t.co/3eNKaRtRjh （X私信容易被屏蔽）本人虽然对药理学了解不多但是能od和不能od的药和物质都尝试过很多了，你在od前如果有什么疑问可以先来问我！\n比如想知道od之后有什么感觉 可能有…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665304321066684416",
+        "conversation_id": "2083715557652889869",
+        "created_at": "2026-08-02T00:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083715557652889869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can contact @melody_tik right away.",
+              "display_url": "t.me/melody_tik",
+              "end": 39,
+              "expanded_url": "https://t.me/melody_tik",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2082404365516845056/RaVZqiGZ?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082404365516845056/RaVZqiGZ?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "泡 O",
+              "unwound_url": "https://t.me/melody_tik",
+              "url": "https://t.co/3eNKaRtRjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083715557652889869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "本人提供免费药物咨询 推荐电报：https://t.co/3eNKaRtRjh （X私信容易被屏蔽）本人虽然对药理学了解不多但是能od和不能od的药和物质都尝试过很多了，你在od前如果有什么疑问可以先来问我！\n比如想知道od之后有什么感觉 可能有什么副作用之类的 有空我都会回复的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 59,
+          "like_count": 2636,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹: @QianQian_TwT @FanQie_QianQian @OE3IIGFQRQ9473\n免费咨询药物推荐电报联系https://t.co/CIpMy1GwBH或X私信\n我不太懂药理学但是能o和不能o的药我都尝试过了，嗑药前可以先问问我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "FanQie_QianQian"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 121,
+                "expanded_url": "https://t.me/melody_tik",
+                "start": 98,
+                "url": "https://t.co/CIpMy1GwBH"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "location": "杭州",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 328,
+          "like_count": 2684,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 878
+        },
+        "url": "",
+        "username": "OoOooo0518",
+        "verified": false
+      }
+    ]
+  }
+}

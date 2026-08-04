@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2084202051966566574",
+    "created_at": "2026-08-03T09:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084211608382017801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2073420644109504513",
+          "start": 0,
+          "username": "IYDKMIGTHTKY23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084211608382017801",
+    "in_reply_to_user_id": "2073420644109504513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084202051966566574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IYDKMIGTHTKY23 笑嘻了我也才睡醒。。水餃好酥胡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2084202051966566574",
+        "created_at": "2026-08-03T09:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084211608382017801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2073420644109504513",
+              "start": 0,
+              "username": "IYDKMIGTHTKY23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084211608382017801",
+        "in_reply_to_user_id": "2073420644109504513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084202051966566574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IYDKMIGTHTKY23 笑嘻了我也才睡醒。。水餃好酥胡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073420644109504513",
+        "conversation_id": "2084202051966566574",
+        "created_at": "2026-08-03T08:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084202051966566574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084202051966566574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "馬的睡到現在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 61,
+          "like_count": 2725,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-04T15:10:17.000Z",
+        "description": "付費約： @omo20060903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "omo20060903"
+              }
+            ]
+          }
+        },
+        "id": "2073420644109504513",
+        "name": "？（3.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080376678682087424/stGTfM2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 342,
+          "like_count": 2326,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "IYDKMIGTHTKY23",
+        "verified": false
+      }
+    ]
+  }
+}

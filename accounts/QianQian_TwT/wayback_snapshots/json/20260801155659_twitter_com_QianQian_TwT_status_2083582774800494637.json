@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083582726570135552"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083473663320539552",
+    "created_at": "2026-08-01T15:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083582774800494637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599012090517540869",
+          "start": 0,
+          "username": "loveforeversfy"
+        },
+        {
+          "end": 24,
+          "id": "1132729630245265408",
+          "start": 16,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QmBSyffdPl",
+          "end": 109,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2083582774800494637/video/1",
+          "media_key": "13_2083582726570135552",
+          "start": 86,
+          "url": "https://t.co/QmBSyffdPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083582774800494637",
+    "in_reply_to_user_id": "1599012090517540869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083473663320539552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveforeversfy @pr80net 我操我的這個的盒子也是超天醬的但是在床下我懶得下床（）但是這個像素風也很好看啊啊啊啊好可愛的藥罐子🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤 https://t.co/QmBSyffdPl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8405,
+        "height": 1280,
+        "media_key": "13_2083582726570135552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083582726570135552/img/WbXgDLaqb_Hcdhly.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083582726570135552/vid/avc1/320x568/3nGCvbDCpQbLsBR1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083582726570135552/vid/avc1/480x852/zb3p1EI_jiN2CHAM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083582726570135552/vid/avc1/720x1280/M_4YPMQvMapYHSLp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083582726570135552/pl/5eITi14MF7i4zdlm.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083473653845610496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOn8P9xaUAARYaE.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083582726570135552"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083473663320539552",
+        "created_at": "2026-08-01T15:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083582774800494637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            },
+            {
+              "end": 24,
+              "id": "1132729630245265408",
+              "start": 16,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmBSyffdPl",
+              "end": 109,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2083582774800494637/video/1",
+              "media_key": "13_2083582726570135552",
+              "start": 86,
+              "url": "https://t.co/QmBSyffdPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083582774800494637",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083473663320539552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy @pr80net 我操我的這個的盒子也是超天醬的但是在床下我懶得下床（）但是這個像素風也很好看啊啊啊啊好可愛的藥罐子🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤 https://t.co/QmBSyffdPl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083473653845610496"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083473663320539552",
+        "created_at": "2026-08-01T08:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083473663320539552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/alRdl73jro",
+              "end": 74,
+              "expanded_url": "https://x.com/loveforeversfy/status/2083473663320539552/photo/1",
+              "media_key": "3_2083473653845610496",
+              "start": 51,
+              "url": "https://t.co/alRdl73jro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083473663320539552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2021,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哎哟我@pr80net 的这个pr盒子搞这么好看这么高级的我要给你们磕一个之前还骂过你们来着对不起😭 https://t.co/alRdl73jro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 58,
+          "like_count": 2527,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 1557,
+          "like_count": 35827,
+          "listed_count": 10,
+          "media_count": 1250,
+          "tweet_count": 11607
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 425,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

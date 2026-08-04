@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082398548797292556",
+    "created_at": "2026-08-01T12:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083529460213756117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083529460213756117",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082398548797292556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 終於漏腳了😍😍😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2082398538424864768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYqcAubUAASeNX.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082398548797292556",
+        "created_at": "2026-08-01T12:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083529460213756117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083529460213756117",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082398548797292556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 終於漏腳了😍😍😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082398538424864768"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082398548797292556",
+        "created_at": "2026-07-29T09:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082398548797292556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCreByyrg6",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2082398548797292556/photo/1",
+              "media_key": "3_2082398538424864768",
+              "start": 6,
+              "url": "https://t.co/oCreByyrg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082398548797292556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成瘾物质！ https://t.co/oCreByyrg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2087,
+          "following_count": 58,
+          "like_count": 2494,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 914,
+          "like_count": 17128,
+          "listed_count": 1,
+          "media_count": 1078,
+          "tweet_count": 10402
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

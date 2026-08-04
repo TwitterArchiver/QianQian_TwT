@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082733641797623941",
+    "created_at": "2026-07-30T08:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082740098953880049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914766734420279296",
+          "start": 0,
+          "username": "yangtao1729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082740098953880049",
+    "in_reply_to_user_id": "1914766734420279296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082739973703532859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangtao1729 我想o巧克力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082733641797623941",
+        "created_at": "2026-07-30T08:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082740098953880049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914766734420279296",
+              "start": 0,
+              "username": "yangtao1729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082740098953880049",
+        "in_reply_to_user_id": "1914766734420279296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082739973703532859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangtao1729 我想o巧克力。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914766734420279296",
+        "conversation_id": "2082733641797623941",
+        "created_at": "2026-07-30T08:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082739973703532859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082739973703532859",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082733641797623941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 巧克力🍫\n土豆🥔\n胡萝卜🥕\n旺仔牛奶糖🍬\n薯片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 56,
+          "like_count": 2293,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 572
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T19:42:30.000Z",
+        "description": "♂男        永远的@XiShangguan    \n                               我是坏人 。我好像不太会介绍自己呢                                      我大哥@yangtao1708 @yangtao0111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "XiShangguan"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "yangtao1708"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "yangtao0111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangtao1729",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangtao1729",
+                "start": 0,
+                "url": "https://t.co/MjsQHi05n5"
+              }
+            ]
+          }
+        },
+        "id": "1914766734420279296",
+        "location": "下界",
+        "name": "白骑士与刺玫瑰",
+        "pinned_tweet_id": "2082357910001360901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 294,
+          "like_count": 22666,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 10997
+        },
+        "url": "https://t.co/MjsQHi05n5",
+        "username": "yangtao1729",
+        "verified": false
+      }
+    ]
+  }
+}

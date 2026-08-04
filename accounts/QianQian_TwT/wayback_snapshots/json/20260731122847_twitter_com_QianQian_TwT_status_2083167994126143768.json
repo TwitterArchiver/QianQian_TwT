@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082875027138212277",
+    "created_at": "2026-07-31T12:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083167994126143768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1549514006670475264",
+          "start": 0,
+          "username": "Emi38688707"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/QianQian_TwT/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/QianQian_TwT/status/2075813185274458470",
+          "start": 36,
+          "url": "https://t.co/IU8XUoHyW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083167994126143768",
+    "in_reply_to_user_id": "1549514006670475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075813185274458470",
+        "type": "quoted"
+      },
+      {
+        "id": "2082875027138212277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emi38688707 為什麼你要盜我的圖。。\n原帖明明是我的。。。 https://t.co/IU8XUoHyW0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14934,
+        "height": 1280,
+        "media_key": "7_2075813105892999168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075813105892999168/pu/img/YEZqHkjyv7iM9Ozd.jpg",
+        "public_metrics": {
+          "view_count": 8961
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075813105892999168/pu/vid/avc1/320x568/CdV5Bl2K0oO54U8y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075813105892999168/pu/vid/avc1/480x852/OZz473oJAE4FTQM0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075813105892999168/pu/vid/avc1/720x1280/u7P1T5SvGYixBbPS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075813105892999168/pu/pl/QBiRpkpkTPPEyOKK.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2017,
+        "media_key": "3_2082875023132696576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfbzElboAAnqbC.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082875027138212277",
+        "created_at": "2026-07-31T12:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083167994126143768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1549514006670475264",
+              "start": 0,
+              "username": "Emi38688707"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/QianQian_TwT/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/QianQian_TwT/status/2075813185274458470",
+              "start": 36,
+              "url": "https://t.co/IU8XUoHyW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083167994126143768",
+        "in_reply_to_user_id": "1549514006670475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075813185274458470",
+            "type": "quoted"
+          },
+          {
+            "id": "2082875027138212277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emi38688707 為什麼你要盜我的圖。。\n原帖明明是我的。。。 https://t.co/IU8XUoHyW0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075813105892999168"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075813185274458470",
+        "created_at": "2026-07-11T05:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075813185274458470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuzVS0pmzL",
+              "end": 34,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2075813185274458470/video/1",
+              "media_key": "7_2075813105892999168",
+              "start": 11,
+              "url": "https://t.co/HuzVS0pmzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075813185274458470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 8438,
+          "like_count": 324,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "沒發推的時候也在頹廢 https://t.co/HuzVS0pmzL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082875023132696576"
+          ]
+        },
+        "author_id": "1549514006670475264",
+        "conversation_id": "2082875027138212277",
+        "created_at": "2026-07-30T17:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082875027138212277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "裏アカ女子"
+            },
+            {
+              "end": 41,
+              "start": 29,
+              "tag": "裏アカ男子と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/imBzm2njP3",
+              "end": 65,
+              "expanded_url": "https://x.com/Emi38688707/status/2082875027138212277/photo/1",
+              "media_key": "3_2082875023132696576",
+              "start": 42,
+              "url": "https://t.co/imBzm2njP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082875027138212277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 20514,
+          "like_count": 543,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "こんなんだけどなかよくしてくれるひとー？\n\n#裏アカ女子\n#裏アカ男子と繋がりたい https://t.co/imBzm2njP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 55,
+          "like_count": 2388,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T21:58:38.000Z",
+        "description": "",
+        "id": "1549514006670475264",
+        "location": " ",
+        "name": "ねの",
+        "pinned_tweet_id": "2083163969024663913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082874511230435328/M5sCNw3o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 15,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Emi38688707",
+        "verified": false
+      }
+    ]
+  }
+}

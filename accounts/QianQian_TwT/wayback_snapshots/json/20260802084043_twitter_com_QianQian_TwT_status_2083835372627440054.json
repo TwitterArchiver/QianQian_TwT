@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083560525552566750",
+    "created_at": "2026-08-02T08:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083835372627440054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083835372627440054",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083560525552566750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 五分鐘還是太多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083560525552566750",
+        "created_at": "2026-08-02T08:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083835372627440054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083835372627440054",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083560525552566750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 五分鐘還是太多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "2083560525552566750",
+        "created_at": "2026-08-01T14:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083560525552566750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083560525552566750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12419,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 84,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "惹我生气的后果如下: 1.我不会再称呼任何昵称例如：宝宝 哥哥 主人 爸爸 老公 2.我会把我说话的语气调节成北极模式，特别冰冷刺骨。 3.我会将你的置顶和备注通通取消 4.我五分钟之内不会找你说话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 59,
+          "like_count": 2654,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转喜欢看的片的。@CaTwTuoo。 推广自辨‼️除口令以外不看私信，52000好友位/@gaoovovo 小号防丢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "CaTwTuoo"
+              },
+              {
+                "end": 56,
+                "start": 47,
+                "username": "gaoovovo"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "🥕",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "2081040490053386500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006600139784228864/G9KATkPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31039,
+          "following_count": 228,
+          "like_count": 24195,
+          "listed_count": 41,
+          "media_count": 1411,
+          "tweet_count": 26235
+        },
+        "url": "",
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

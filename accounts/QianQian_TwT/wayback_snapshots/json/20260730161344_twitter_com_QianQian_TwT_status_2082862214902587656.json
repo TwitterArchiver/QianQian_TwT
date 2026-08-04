@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074040493194047488",
+        "3_2074040493726736385"
+      ],
+      "media_source_tweet_id": [
+        "2074040504334135586",
+        "2074040504334135586"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082862214902587656",
+    "created_at": "2026-07-30T16:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082862214902587656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IX9lZPY9Uf",
+          "end": 83,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074040504334135586/photo/1",
+          "media_key": "3_2074040493194047488",
+          "start": 60,
+          "url": "https://t.co/IX9lZPY9Uf"
+        },
+        {
+          "display_url": "pic.x.com/IX9lZPY9Uf",
+          "end": 83,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2074040504334135586/photo/1",
+          "media_key": "3_2074040493726736385",
+          "start": 60,
+          "url": "https://t.co/IX9lZPY9Uf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082862214902587656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074040504334135586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 我對瘀傷有種獨特的感情 還是說是所有的傷疤？ 紫紫的帶點粉色 雖然青色的也很好看呢 https://t.co/IX9lZPY9Uf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074040493194047488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh41v6bcAAXO8B.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074040493726736385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh41x5boAEcqT-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074040493194047488",
+            "3_2074040493726736385"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2074040504334135586",
+        "created_at": "2026-07-06T07:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074040504334135586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IX9lZPY9Uf",
+              "end": 65,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074040504334135586/photo/1",
+              "media_key": "3_2074040493194047488",
+              "start": 42,
+              "url": "https://t.co/IX9lZPY9Uf"
+            },
+            {
+              "display_url": "pic.x.com/IX9lZPY9Uf",
+              "end": 65,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074040504334135586/photo/1",
+              "media_key": "3_2074040493726736385",
+              "start": 42,
+              "url": "https://t.co/IX9lZPY9Uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074040504334135586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10241,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我對瘀傷有種獨特的感情 還是說是所有的傷疤？ 紫紫的帶點粉色 雖然青色的也很好看呢 https://t.co/IX9lZPY9Uf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074040493194047488",
+            "3_2074040493726736385"
+          ],
+          "media_source_tweet_id": [
+            "2074040504334135586",
+            "2074040504334135586"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082862214902587656",
+        "created_at": "2026-07-30T16:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082862214902587656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IX9lZPY9Uf",
+              "end": 83,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074040504334135586/photo/1",
+              "media_key": "3_2074040493194047488",
+              "start": 60,
+              "url": "https://t.co/IX9lZPY9Uf"
+            },
+            {
+              "display_url": "pic.x.com/IX9lZPY9Uf",
+              "end": 83,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2074040504334135586/photo/1",
+              "media_key": "3_2074040493726736385",
+              "start": 60,
+              "url": "https://t.co/IX9lZPY9Uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082862214902587656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074040504334135586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 我對瘀傷有種獨特的感情 還是說是所有的傷疤？ 紫紫的帶點粉色 雖然青色的也很好看呢 https://t.co/IX9lZPY9Uf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 54,
+          "like_count": 2348,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

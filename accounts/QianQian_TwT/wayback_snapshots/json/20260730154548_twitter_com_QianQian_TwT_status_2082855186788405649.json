@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082539041892032720",
+    "created_at": "2026-07-30T15:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082855186788405649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2064542363595493376",
+          "start": 0,
+          "username": "ToriNoelle003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082855186788405649",
+    "in_reply_to_user_id": "2073780355434483712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082844259124703713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToriNoelle003 对的对的 就是番茄自己喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082539041892032720",
+        "created_at": "2026-07-30T15:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082855186788405649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064542363595493376",
+              "start": 0,
+              "username": "ToriNoelle003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082855186788405649",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082844259124703713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToriNoelle003 对的对的 就是番茄自己喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082539041892032720",
+        "created_at": "2026-07-30T15:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082844259124703713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064542363595493376",
+              "start": 0,
+              "username": "ToriNoelle003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082844259124703713",
+        "in_reply_to_user_id": "2064542363595493376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082843230031548425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToriNoelle003 我男朋友有飛機杯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 54,
+          "like_count": 2326,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T02:58:59.000Z",
+        "description": "“為遠去的鳥兒獻上革命的花朵。”\n（前世@DKR_World）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "DKR_World"
+              }
+            ]
+          }
+        },
+        "id": "2064542363595493376",
+        "location": "東京暴動革命支部",
+        "name": "◎東亞躁鬱革委會",
+        "pinned_tweet_id": "2077760203894947996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 126,
+          "like_count": 1632,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "ToriNoelle003",
+        "verified": false
+      }
+    ]
+  }
+}

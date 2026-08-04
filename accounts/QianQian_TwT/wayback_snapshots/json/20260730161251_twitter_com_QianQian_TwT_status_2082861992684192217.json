@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075190752708280320"
+      ],
+      "media_source_tweet_id": [
+        "2075190759377207390"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082861992684192217",
+    "created_at": "2026-07-30T16:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082861992684192217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f9znRiQpBa",
+          "end": 57,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2075190759377207390/photo/1",
+          "media_key": "3_2075190752708280320",
+          "start": 34,
+          "url": "https://t.co/f9znRiQpBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082861992684192217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075190759377207390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 好想這樣躲在你懷裏哭 我想你了 https://t.co/f9znRiQpBa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2075190752708280320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyO_qhaQAA3fjo.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075190752708280320"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075190759377207390",
+        "created_at": "2026-07-09T12:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075190759377207390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9znRiQpBa",
+              "end": 39,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2075190759377207390/photo/1",
+              "media_key": "3_2075190752708280320",
+              "start": 16,
+              "url": "https://t.co/f9znRiQpBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075190759377207390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4498,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好想這樣躲在你懷裏哭 我想你了 https://t.co/f9znRiQpBa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075190752708280320"
+          ],
+          "media_source_tweet_id": [
+            "2075190759377207390"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082861992684192217",
+        "created_at": "2026-07-30T16:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082861992684192217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9znRiQpBa",
+              "end": 57,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2075190759377207390/photo/1",
+              "media_key": "3_2075190752708280320",
+              "start": 34,
+              "url": "https://t.co/f9znRiQpBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082861992684192217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075190759377207390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 好想這樣躲在你懷裏哭 我想你了 https://t.co/f9znRiQpBa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 54,
+          "like_count": 2348,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

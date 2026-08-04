@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083999402289713152",
+        "3_2083999410653114368"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083999417481478293",
+    "created_at": "2026-08-02T19:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083999417481478293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/_tomato._.fanq…",
+          "end": 42,
+          "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2081308583241854976/EsPGSi2d?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2081308583241854976/EsPGSi2d?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 19,
+          "status": 200,
+          "title": "@_tomato._.fanqie_: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/_tomato._.fanqie_2",
+          "url": "https://t.co/QHANlYLUbj"
+        },
+        {
+          "display_url": "pic.x.com/rn9XCyi8Kr",
+          "end": 66,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2083999417481478293/photo/1",
+          "media_key": "3_2083999402289713152",
+          "start": 43,
+          "url": "https://t.co/rn9XCyi8Kr"
+        },
+        {
+          "display_url": "pic.x.com/rn9XCyi8Kr",
+          "end": 66,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2083999417481478293/photo/1",
+          "media_key": "3_2083999410653114368",
+          "start": 43,
+          "url": "https://t.co/rn9XCyi8Kr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083999417481478293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "性向為心之所向🐱\n\n你倒是給我啊😡\n\nhttps://t.co/QHANlYLUbj https://t.co/rn9XCyi8Kr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_2083999402289713152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvaajWa0AAQ8Od.jpg",
+        "width": 1080
+      },
+      {
+        "height": 648,
+        "media_key": "3_2083999410653114368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvabCgaMAAqGs_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083999402289713152",
+            "3_2083999410653114368"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083999417481478293",
+        "created_at": "2026-08-02T19:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083999417481478293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/_tomato._.fanq…",
+              "end": 42,
+              "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2081308583241854976/EsPGSi2d?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081308583241854976/EsPGSi2d?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "@_tomato._.fanqie_: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/_tomato._.fanqie_2",
+              "url": "https://t.co/QHANlYLUbj"
+            },
+            {
+              "display_url": "pic.x.com/rn9XCyi8Kr",
+              "end": 66,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2083999417481478293/photo/1",
+              "media_key": "3_2083999402289713152",
+              "start": 43,
+              "url": "https://t.co/rn9XCyi8Kr"
+            },
+            {
+              "display_url": "pic.x.com/rn9XCyi8Kr",
+              "end": 66,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2083999417481478293/photo/1",
+              "media_key": "3_2083999410653114368",
+              "start": 43,
+              "url": "https://t.co/rn9XCyi8Kr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083999417481478293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性向為心之所向🐱\n\n你倒是給我啊😡\n\nhttps://t.co/QHANlYLUbj https://t.co/rn9XCyi8Kr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 61,
+          "like_count": 2696,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

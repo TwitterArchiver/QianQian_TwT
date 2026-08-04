@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082077122601144616",
+    "created_at": "2026-07-29T10:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082406288995324250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1423594963422547969",
+          "start": 0,
+          "username": "maru_Rema_maru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082406288995324250",
+    "in_reply_to_user_id": "1423594963422547969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082405478559350844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maru_Rema_maru 我媽就這樣吧。。⏰你贏了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082077122601144616",
+        "created_at": "2026-07-29T10:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082406288995324250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1423594963422547969",
+              "start": 0,
+              "username": "maru_Rema_maru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082406288995324250",
+        "in_reply_to_user_id": "1423594963422547969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082405478559350844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maru_Rema_maru 我媽就這樣吧。。⏰你贏了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423594963422547969",
+        "conversation_id": "2082077122601144616",
+        "created_at": "2026-07-29T09:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082405478559350844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082405478559350844",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082400871460098157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 自己说话恶心的要死天天打压我 我真按他的想去死啦他又让我给他道歉😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 55,
+          "like_count": 2241,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T10:41:13.000Z",
+        "description": "＝川川/20↑/病み垢/互fo请私信/前世@chuan_0123 互关寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "chuan_0123"
+              }
+            ]
+          }
+        },
+        "id": "1423594963422547969",
+        "name": "虚空薯条大教主2.0",
+        "pinned_tweet_id": "2074369844997464232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064003232154951681/HwdMvkLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 334,
+          "like_count": 4701,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "maru_Rema_maru",
+        "verified": false
+      }
+    ]
+  }
+}

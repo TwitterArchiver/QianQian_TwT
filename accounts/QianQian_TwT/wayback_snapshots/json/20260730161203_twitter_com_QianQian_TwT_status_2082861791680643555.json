@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080201892446302209"
+      ],
+      "media_source_tweet_id": [
+        "2080201904886591987"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082861791680643555",
+    "created_at": "2026-07-30T16:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082861791680643555"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "4i"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "iiii"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AQC5i38Asj",
+          "end": 57,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2080201904886591987/photo/1",
+          "media_key": "3_2080201892446302209",
+          "start": 34,
+          "url": "https://t.co/AQC5i38Asj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082861791680643555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080201904886591987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 小狗怎麼叫 #4i #iiii https://t.co/AQC5i38Asj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2944,
+        "media_key": "3_2080201892446302209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5cmYxbcAETrWE.jpg",
+        "width": 2208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080201892446302209"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2080201904886591987",
+        "created_at": "2026-07-23T08:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080201904886591987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "4i"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "iiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQC5i38Asj",
+              "end": 39,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2080201904886591987/photo/1",
+              "media_key": "3_2080201892446302209",
+              "start": 16,
+              "url": "https://t.co/AQC5i38Asj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080201904886591987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11030,
+          "like_count": 179,
+          "quote_count": 1,
+          "reply_count": 65,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "小狗怎麼叫 #4i #iiii https://t.co/AQC5i38Asj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080201892446302209"
+          ],
+          "media_source_tweet_id": [
+            "2080201904886591987"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082861791680643555",
+        "created_at": "2026-07-30T16:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082861791680643555"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "4i"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "iiii"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQC5i38Asj",
+              "end": 57,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2080201904886591987/photo/1",
+              "media_key": "3_2080201892446302209",
+              "start": 34,
+              "url": "https://t.co/AQC5i38Asj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082861791680643555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080201904886591987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 小狗怎麼叫 #4i #iiii https://t.co/AQC5i38Asj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 54,
+          "like_count": 2346,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

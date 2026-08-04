@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083881568695926788",
+    "created_at": "2026-08-02T19:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084004325165302172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "star27810544557"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084004325165302172",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084002992899186743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@star27810544557 她的逼沒這麼貴吃她的逼也沒這麼爽😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083881568695926788",
+        "created_at": "2026-08-02T19:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084004325165302172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "star27810544557"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084004325165302172",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084002992899186743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@star27810544557 她的逼沒這麼貴吃她的逼也沒這麼爽😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947765957658873860",
+        "conversation_id": "2083881568695926788",
+        "created_at": "2026-08-02T19:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084002992899186743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084002992899186743",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083997588991402116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 我不吸毒所以我不吃她的逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 61,
+          "like_count": 2697,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "右 反共 顺直勿扰 友LGBTQ 如果立场不同请不要关注我 随时销号",
+        "id": "1947765957658873860",
+        "name": "爱国者8964",
+        "pinned_tweet_id": "2083571963524690387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082348386540503040/YBhcS1rX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 64,
+          "like_count": 1370,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "star27810544557",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083975402268295305",
+    "created_at": "2026-08-02T19:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084005587726278706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454011300854460420",
+          "start": 0,
+          "username": "rara_0615xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084005587726278706",
+    "in_reply_to_user_id": "1454011300854460420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083975402268295305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rara_0615xx 泥腫末惹…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083975402268295305",
+        "created_at": "2026-08-02T19:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084005587726278706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454011300854460420",
+              "start": 0,
+              "username": "rara_0615xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084005587726278706",
+        "in_reply_to_user_id": "1454011300854460420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083975402268295305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rara_0615xx 泥腫末惹…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454011300854460420",
+        "conversation_id": "2083975402268295305",
+        "created_at": "2026-08-02T17:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083975402268295305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083975402268295305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沃完蛋惹…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 61,
+          "like_count": 2699,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-29T09:04:56.000Z",
+        "description": "/鱿鱼系女子亚米亚米/互fo大欢迎/🚪私",
+        "id": "1454011300854460420",
+        "location": "天國",
+        "name": "♡純白色罪業",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041065743043932161/pNiYUnGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 285,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "rara_0615xx",
+        "verified": false
+      }
+    ]
+  }
+}

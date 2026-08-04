@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083509798104887575",
+    "created_at": "2026-08-01T16:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083594693217223018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1455391053473738756",
+          "start": 0,
+          "username": "gugehaha1"
+        },
+        {
+          "end": 18,
+          "id": "1457278962124529674",
+          "start": 11,
+          "username": "ikoftb"
+        },
+        {
+          "end": 34,
+          "id": "1993150970705199108",
+          "start": 19,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083594693217223018",
+    "in_reply_to_user_id": "1455391053473738756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083589573368488403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugehaha1 @ikoftb @Nana_naiiiiiii 兄弟你最健全了你最棒了但你也很該似 這些對我們來說只是逃避的一些方法 你不理解沒關係 只是因為你文化不夠還有你太健全 我可以理解你的 但是你這種健全b站在道德至高點去嘲笑譴責我們這些“精神不正常的人”就不對了 似的怎麼不是你啊😭\nbtw恭喜你被我畢業了😸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083509798104887575",
+        "created_at": "2026-08-01T16:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083594693217223018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455391053473738756",
+              "start": 0,
+              "username": "gugehaha1"
+            },
+            {
+              "end": 18,
+              "id": "1457278962124529674",
+              "start": 11,
+              "username": "ikoftb"
+            },
+            {
+              "end": 34,
+              "id": "1993150970705199108",
+              "start": 19,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083594693217223018",
+        "in_reply_to_user_id": "1455391053473738756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083589573368488403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugehaha1 @ikoftb @Nana_naiiiiiii 兄弟你最健全了你最棒了但你也很該似 這些對我們來說只是逃避的一些方法 你不理解沒關係 只是因為你文化不夠還有你太健全 我可以理解你的 但是你這種健全b站在道德至高點去嘲笑譴責我們這些“精神不正常的人”就不對了 似的怎麼不是你啊😭\nbtw恭喜你被我畢業了😸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455391053473738756",
+        "conversation_id": "2083509798104887575",
+        "created_at": "2026-08-01T16:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083589573368488403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 21,
+              "id": "1457278962124529674",
+              "start": 14,
+              "username": "ikoftb"
+            },
+            {
+              "end": 37,
+              "id": "1993150970705199108",
+              "start": 22,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083589573368488403",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083577587734061303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT @ikoftb @Nana_naiiiiiii 因为我不会改花刀 不会吸毒嗑药 更不会拿刀辣自己脖子 🤣精神不正常的人是不会懂得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 58,
+          "like_count": 2531,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 654
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-02T04:27:36.000Z",
+        "description": "打王者 听音乐 看书籍\n心理咨询师",
+        "id": "1455391053473738756",
+        "location": "深圳",
+        "name": "你打我电话了没有？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027316546952212480/WIk13YlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 192,
+          "like_count": 2446,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "gugehaha1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T09:29:31.000Z",
+        "description": "03武汉研一在读",
+        "id": "1457278962124529674",
+        "location": "湖北",
+        "name": "然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939858754289414144/V6lSN2Rf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 204,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "ikoftb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 323,
+          "like_count": 24889,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 1894
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

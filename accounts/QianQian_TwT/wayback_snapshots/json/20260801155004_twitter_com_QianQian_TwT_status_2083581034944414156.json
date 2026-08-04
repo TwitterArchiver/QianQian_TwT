@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083581034944414156",
+    "created_at": "2026-08-01T15:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083581034944414156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QianQian_TwT/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/QianQian_TwT/status/2083236821404926124",
+          "start": 28,
+          "url": "https://t.co/bV5s8oo2IC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083581034944414156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083236821404926124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "點讚這個點讚這個點讚這個。這個明明很萌啊為啥沒人喜歡。 https://t.co/bV5s8oo2IC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12445,
+        "height": 1280,
+        "media_key": "13_2083236767071883264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083236767071883264/img/DtUz_48Bs4Aenokl.jpg",
+        "public_metrics": {
+          "view_count": 1153
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083236767071883264/vid/avc1/320x568/7IknvR6jIzebYaoB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083236767071883264/vid/avc1/480x852/GvOtocKhH3TRQCoZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083236767071883264/vid/avc1/720x1280/Bd-FUqYijnrjWypz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083236767071883264/pl/1pivIxo4FzYJ8Xti.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083581034944414156",
+        "created_at": "2026-08-01T15:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083581034944414156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QianQian_TwT/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/QianQian_TwT/status/2083236821404926124",
+              "start": 28,
+              "url": "https://t.co/bV5s8oo2IC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083581034944414156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083236821404926124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "點讚這個點讚這個點讚這個。這個明明很萌啊為啥沒人喜歡。 https://t.co/bV5s8oo2IC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083236767071883264"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083236821404926124",
+        "created_at": "2026-07-31T17:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083236821404926124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ox4dvKqlP",
+              "end": 29,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2083236821404926124/video/1",
+              "media_key": "13_2083236767071883264",
+              "start": 6,
+              "url": "https://t.co/1Ox4dvKqlP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083236821404926124",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5460,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;3 https://t.co/1Ox4dvKqlP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 58,
+          "like_count": 2524,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

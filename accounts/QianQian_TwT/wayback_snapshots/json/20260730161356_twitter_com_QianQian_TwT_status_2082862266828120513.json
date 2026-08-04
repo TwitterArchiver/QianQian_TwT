@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073813303508492288"
+      ],
+      "media_source_tweet_id": [
+        "2073813310181691720"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082862266828120513",
+    "created_at": "2026-07-30T16:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082862266828120513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4ZWaSD094",
+          "end": 72,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2073813310181691720/photo/1",
+          "media_key": "3_2073813303508492288",
+          "start": 49,
+          "url": "https://t.co/q4ZWaSD094"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082862266828120513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073813310181691720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 是體操服芊芊哦？！褲子短到看不見喵（）但我有穿的！！（哈氣） https://t.co/q4ZWaSD094"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2073813303508492288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeqNkYaYAADpxh.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073813303508492288"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073813310181691720",
+        "created_at": "2026-07-05T16:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073813310181691720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4ZWaSD094",
+              "end": 54,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2073813310181691720/photo/1",
+              "media_key": "3_2073813303508492288",
+              "start": 31,
+              "url": "https://t.co/q4ZWaSD094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073813310181691720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 26287,
+          "like_count": 690,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "是體操服芊芊哦？！褲子短到看不見喵（）但我有穿的！！（哈氣） https://t.co/q4ZWaSD094"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073813303508492288"
+          ],
+          "media_source_tweet_id": [
+            "2073813310181691720"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082862266828120513",
+        "created_at": "2026-07-30T16:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082862266828120513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4ZWaSD094",
+              "end": 72,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2073813310181691720/photo/1",
+              "media_key": "3_2073813303508492288",
+              "start": 49,
+              "url": "https://t.co/q4ZWaSD094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082862266828120513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073813310181691720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 是體操服芊芊哦？！褲子短到看不見喵（）但我有穿的！！（哈氣） https://t.co/q4ZWaSD094"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 54,
+          "like_count": 2348,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084010951838498816"
+      ],
+      "media_source_tweet_id": [
+        "2084010960927506615"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2084205899363840388",
+    "created_at": "2026-08-03T09:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084205899363840388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wXKLnL1rXk",
+          "end": 62,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2084010960927506615/photo/1",
+          "media_key": "3_2084010951838498816",
+          "start": 39,
+          "url": "https://t.co/wXKLnL1rXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084205899363840388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084010960927506615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 這個就是我呀。很呆。然後呢，我要水餃惹。 https://t.co/wXKLnL1rXk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2084010951838498816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvk60xbgAAwhCh.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084010951838498816"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2084010960927506615",
+        "created_at": "2026-08-02T20:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084010960927506615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXKLnL1rXk",
+              "end": 44,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2084010960927506615/photo/1",
+              "media_key": "3_2084010951838498816",
+              "start": 21,
+              "url": "https://t.co/wXKLnL1rXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084010960927506615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1631,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個就是我呀。很呆。然後呢，我要水餃惹。 https://t.co/wXKLnL1rXk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084010951838498816"
+          ],
+          "media_source_tweet_id": [
+            "2084010960927506615"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2084205899363840388",
+        "created_at": "2026-08-03T09:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084205899363840388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXKLnL1rXk",
+              "end": 62,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2084010960927506615/photo/1",
+              "media_key": "3_2084010951838498816",
+              "start": 39,
+              "url": "https://t.co/wXKLnL1rXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084205899363840388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084010960927506615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 這個就是我呀。很呆。然後呢，我要水餃惹。 https://t.co/wXKLnL1rXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 60,
+          "like_count": 2713,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}
