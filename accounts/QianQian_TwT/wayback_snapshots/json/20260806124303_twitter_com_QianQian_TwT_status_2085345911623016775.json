@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2085337710705954839",
+    "created_at": "2026-08-06T12:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085345911623016775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687876238474629120",
+          "start": 0,
+          "username": "AgNo3_xq0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085345911623016775",
+    "in_reply_to_user_id": "1687876238474629120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085337710705954839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_xq0719 我操。她推特是啥啊我第一眼看泥的推文以為是在說我嚇哭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2085337710705954839",
+        "created_at": "2026-08-06T12:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085345911623016775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687876238474629120",
+              "start": 0,
+              "username": "AgNo3_xq0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085345911623016775",
+        "in_reply_to_user_id": "1687876238474629120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085337710705954839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_xq0719 我操。她推特是啥啊我第一眼看泥的推文以為是在說我嚇哭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687876238474629120",
+        "conversation_id": "2085337710705954839",
+        "created_at": "2026-08-06T12:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085337710705954839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085337710705954839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼番茄 上岸第一件事就是背刺以前的朋友呗 我见她我花了5k+ 请他吃饭400+生日转账520怎么一句话都不提 就提我说过的负能量 我对她的好怎么一点都不提劝她少o点什么的 我的妈呀这还是人类吗 她还说自己一直在帮我 帮在哪了我请问呢 还说我白眼狼你要笑死谁 约你的稿都只是因为我知道你没钱想帮忙哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 61,
+          "like_count": 3013,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T17:20:44.000Z",
+        "description": "09｜od｜自伤｜双相情感障碍｜istp-t｜爱人@llzvkeai @NiimiyaHoshi @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "1687876238474629120",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅（三世）",
+        "pinned_tweet_id": "2051206545862791329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052320556314406912/LyRw4OOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 270,
+          "like_count": 368,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "AgNo3_xq0719",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2087411223595982993",
+    "created_at": "2026-08-12T05:30:36.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T06:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087411405745996092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2087070635503882241",
+          "start": 0,
+          "username": "orangetquh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087411405745996092",
+    "in_reply_to_user_id": "2087070635503882241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087411223595982993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangetquh 感謝大家支持🙏🙏🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2087411223595982993",
+        "created_at": "2026-08-12T05:30:36.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087411405745996092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087070635503882241",
+              "start": 0,
+              "username": "orangetquh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087411405745996092",
+        "in_reply_to_user_id": "2087070635503882241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087411223595982993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangetquh 感謝大家支持🙏🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087070635503882241",
+        "conversation_id": "2087411223595982993",
+        "created_at": "2026-08-12T05:29:52.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087411223595982993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QianQian_TwT/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/QianQian_TwT/status/2087409107829735478",
+              "start": 13,
+              "url": "https://t.co/ULrr2nUN4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087411223595982993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087409107829735478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "助力每一个不知死活的梦想 https://t.co/ULrr2nUN4G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087411405745996092",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073780355434483712/1783276015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2583,
+          "following_count": 66,
+          "like_count": 3810,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1012
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T06:58:45.000Z",
+        "description": "",
+        "id": "2087070635503882241",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087411223595982993",
+        "name": "orange",
+        "pinned_tweet_id": "2087074857372856738",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087071416000942080/kZseMbSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 81,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "orangetquh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

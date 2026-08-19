@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085730452950933504"
+      ],
+      "media_source_tweet_id": [
+        "2085730468662833280"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2085752917269897298",
+    "created_at": "2026-08-07T15:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085752917269897298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pq2l4lbQk0",
+          "end": 68,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2085730468662833280/photo/1",
+          "media_key": "3_2085730452950933504",
+          "start": 45,
+          "url": "https://t.co/Pq2l4lbQk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085752917269897298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085730468662833280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 這個世界不要再欺負萌萌的操蛋了 操蛋可是會哈氣的哦？ https://t.co/Pq2l4lbQk0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085730452950933504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIAy9la4AA1LNw.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085730452950933504"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2085730468662833280",
+        "created_at": "2026-08-07T14:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085730468662833280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pq2l4lbQk0",
+              "end": 50,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2085730468662833280/photo/1",
+              "media_key": "3_2085730452950933504",
+              "start": 27,
+              "url": "https://t.co/Pq2l4lbQk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085730468662833280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1010,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "這個世界不要再欺負萌萌的操蛋了 操蛋可是會哈氣的哦？ https://t.co/Pq2l4lbQk0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085730452950933504"
+          ],
+          "media_source_tweet_id": [
+            "2085730468662833280"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2085752917269897298",
+        "created_at": "2026-08-07T15:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085752917269897298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pq2l4lbQk0",
+              "end": 68,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2085730468662833280/photo/1",
+              "media_key": "3_2085730452950933504",
+              "start": 45,
+              "url": "https://t.co/Pq2l4lbQk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085752917269897298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085730468662833280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 這個世界不要再欺負萌萌的操蛋了 操蛋可是會哈氣的哦？ https://t.co/Pq2l4lbQk0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 62,
+          "like_count": 3283,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

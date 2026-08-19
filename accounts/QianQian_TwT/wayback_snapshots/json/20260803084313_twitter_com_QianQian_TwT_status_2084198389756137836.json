@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2083873647840874849",
+    "created_at": "2026-08-03T08:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084198389756137836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1856752962879782912",
+          "start": 0,
+          "username": "Oowbsgvc"
+        },
+        {
+          "end": 17,
+          "id": "1950645620429275136",
+          "start": 10,
+          "username": "1kiiou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084198389756137836",
+    "in_reply_to_user_id": "1856752962879782912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084001530869629130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oowbsgvc @1kiiou 超絕斷句😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083873647840874849",
+        "created_at": "2026-08-03T08:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084198389756137836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1856752962879782912",
+              "start": 0,
+              "username": "Oowbsgvc"
+            },
+            {
+              "end": 17,
+              "id": "1950645620429275136",
+              "start": 10,
+              "username": "1kiiou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084198389756137836",
+        "in_reply_to_user_id": "1856752962879782912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084001530869629130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oowbsgvc @1kiiou 超絕斷句😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856752962879782912",
+        "conversation_id": "2083873647840874849",
+        "created_at": "2026-08-02T19:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084001530869629130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 21,
+              "id": "1950645620429275136",
+              "start": 14,
+              "username": "1kiiou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084001530869629130",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083998109986918904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT @1kiiou 为什么你能草你小时候🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 60,
+          "like_count": 2710,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T17:36:34.000Z",
+        "description": "Moi, zh-CN,TW/EN/FR/JP ができます。\n友跨猫娘 | 🏳️‍🌈🏳️‍⚧️🌊🌸 | 邦烤批\n去中心化 自由意志/古典自由主义\n谢谢喜欢喵 无创可贴内容 🉑NSFW 🈚️线下 不礼貌拉黑喵\n验证我的身份⬇️\n63ECBB1F89A76063616CD4EDD2F9324BECD6F59C",
+        "id": "1856752962879782912",
+        "location": "中國小陸",
+        "name": "无敌仑库邪王🌊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083093033218932736/gKhO3sUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 262,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "Oowbsgvc",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T19:52:25.000Z",
+        "description": "皮下是小猫\n@zzzyuuii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "zzzyuuii"
+              }
+            ]
+          }
+        },
+        "id": "1950645620429275136",
+        "location": "暖暖的被窝里",
+        "name": "季风",
+        "pinned_tweet_id": "2056205109793579464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078887593505325056/P9F0qR3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 157,
+          "like_count": 10892,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 4846
+        },
+        "url": "",
+        "username": "1kiiou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2086745743948427477",
+    "created_at": "2026-08-11T02:18:53.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T03:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087000772433035571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831671299057623040",
+          "start": 0,
+          "username": "afuai377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087000772433035571",
+    "in_reply_to_user_id": "1831671299057623040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086745743948427477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afuai377 ？想幹嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5066,
+        "height": 1276,
+        "media_key": "13_2086745725313171456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086745725313171456/img/WTYRWkJsUJDrWnwo.jpg",
+        "public_metrics": {
+          "view_count": 170
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086745725313171456/vid/avc1/320x566/GivdcwMOfC1Kda0T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086745725313171456/vid/avc1/480x850/AvJdbPShxKBeRVwv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086745725313171456/vid/avc1/720x1276/uWxYy761GSXRiKt5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086745725313171456/pl/iybRLvaxudXlMN2o.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2086745743948427477",
+        "created_at": "2026-08-11T02:18:53.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087000772433035571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831671299057623040",
+              "start": 0,
+              "username": "afuai377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087000772433035571",
+        "in_reply_to_user_id": "1831671299057623040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086745743948427477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afuai377 ？想幹嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086745725313171456"
+          ]
+        },
+        "author_id": "1831671299057623040",
+        "conversation_id": "2086745743948427477",
+        "created_at": "2026-08-10T09:25:29.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086745743948427477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCHwRbi1yU",
+              "end": 33,
+              "expanded_url": "https://x.com/afuai377/status/2086745743948427477/video/1",
+              "media_key": "13_2086745725313171456",
+              "start": 10,
+              "url": "https://t.co/tCHwRbi1yU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086745743948427477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086745725313171456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 825,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我來寵你們了知道嗎 https://t.co/tCHwRbi1yU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087000772433035571",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073780355434483712/1783276015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 63,
+          "like_count": 3674,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-05T12:30:55.000Z",
+        "description": "✮同成分互fo @fuaiy_37 防炸號\n\n@kana40427 狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "fuaiy_37"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "kana40427"
+              }
+            ]
+          }
+        },
+        "id": "1831671299057623040",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2086984471560216740",
+        "name": "ふ愛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831671299057623040/1786202357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086109958400344064/FjbkzIpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9055,
+          "following_count": 250,
+          "like_count": 6254,
+          "listed_count": 8,
+          "media_count": 172,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "afuai377",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

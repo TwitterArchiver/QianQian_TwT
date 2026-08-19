@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2086694293574697221",
+    "created_at": "2026-08-10T06:01:03.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T07:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086694293574697221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nini88ovo/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/nini88ovo/status/2081603030865371553",
+          "start": 16,
+          "url": "https://t.co/V441YuCQbJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086694293574697221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081603030865371553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個是我女神呀🤤🤤🤤💗💗💗💗💗 https://t.co/V441YuCQbJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081603022204104704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONW633a8AAvK3h.jpg",
+        "width": 779
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2086694293574697221",
+        "created_at": "2026-08-10T06:01:03.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086694293574697221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nini88ovo/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/nini88ovo/status/2081603030865371553",
+              "start": 16,
+              "url": "https://t.co/V441YuCQbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086694293574697221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081603030865371553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個是我女神呀🤤🤤🤤💗💗💗💗💗 https://t.co/V441YuCQbJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081603022204104704"
+          ]
+        },
+        "author_id": "2077397238184120320",
+        "conversation_id": "2081603030865371553",
+        "created_at": "2026-07-27T04:50:11.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081603030865371553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbkggZW7yi",
+              "end": 23,
+              "expanded_url": "https://x.com/nini88ovo/status/2081603030865371553/photo/1",
+              "media_key": "3_2081603022204104704",
+              "start": 0,
+              "url": "https://t.co/mbkggZW7yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081603030865371553",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2081603022204104704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 6333,
+          "like_count": 543,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mbkggZW7yi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086694306807738832",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073780355434483712/1783276015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 64,
+          "like_count": 3602,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 903
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T14:19:58.000Z",
+        "description": "前世@TuTri77\n@ouo7iiR\n匿名提问 https://t.co/DYIdAY5YvV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "TuTri77"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "ouo7iiR"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nini96993",
+                "end": 48,
+                "expanded_url": "https://ngl.link/nini96993",
+                "start": 25,
+                "url": "https://t.co/DYIdAY5YvV"
+              }
+            ]
+          }
+        },
+        "id": "2077397238184120320",
+        "is_identity_verified": false,
+        "location": "🚪88 纯绿",
+        "most_recent_tweet_id": "2086138260393525580",
+        "name": "nini",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077397238184120320/1786230574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078421118697029632/MgLnYs-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 32,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "nini88ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2084544772237361609",
+    "created_at": "2026-08-06T06:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085250464027931022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2071273069767729152",
+          "start": 0,
+          "username": "QAKKBJ"
+        },
+        {
+          "end": 18,
+          "id": "2083477847797362688",
+          "start": 8,
+          "username": "adCa00414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085250464027931022",
+    "in_reply_to_user_id": "2071273069767729152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085162501235167573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QAKKBJ @adCa00414 必須加糖啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2084544772237361609",
+        "created_at": "2026-08-06T06:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085250464027931022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2071273069767729152",
+              "start": 0,
+              "username": "QAKKBJ"
+            },
+            {
+              "end": 18,
+              "id": "2083477847797362688",
+              "start": 8,
+              "username": "adCa00414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085250464027931022",
+        "in_reply_to_user_id": "2071273069767729152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085162501235167573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QAKKBJ @adCa00414 必須加糖啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071273069767729152",
+        "conversation_id": "2084544772237361609",
+        "created_at": "2026-08-06T00:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085162501235167573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 24,
+              "id": "2083477847797362688",
+              "start": 14,
+              "username": "adCa00414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085162501235167573",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084586140640641031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT @adCa00414 番茄炒蛋加糖还是加盐(°∀°)b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 60,
+          "like_count": 2985,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T16:43:13.000Z",
+        "description": "☝😋👍\n👈🤓👉\n👇😡👎",
+        "id": "2071273069767729152",
+        "name": "九月(°∀°)b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071276226598100992/9Dq8utmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 126,
+          "like_count": 4715,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "QAKKBJ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T09:01:29.000Z",
+        "description": "前世@ANDEL0426\n我的狗狗@xxs0721 \n友跨｜性别不明｜烟鬼喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 25,
+                "start": 17,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "2083477847797362688",
+        "name": "ADniako喵",
+        "pinned_tweet_id": "2083479090116641073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083478390020149248/3ahRmuL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 62,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "adCa00414",
+        "verified": false
+      }
+    ]
+  }
+}

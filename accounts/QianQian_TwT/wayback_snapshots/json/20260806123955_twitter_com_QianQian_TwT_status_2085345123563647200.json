@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085345117456760832"
+      ]
+    },
+    "author_id": "2073780355434483712",
+    "conversation_id": "2085072885098360873",
+    "created_at": "2026-08-06T12:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085345123563647200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1637411501509160960",
+          "start": 0,
+          "username": "ColdEcho_4sm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LjtMTx7PRN",
+          "end": 37,
+          "expanded_url": "https://x.com/QianQian_TwT/status/2085345123563647200/photo/1",
+          "media_key": "3_2085345117456760832",
+          "start": 14,
+          "url": "https://t.co/LjtMTx7PRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085345123563647200",
+    "in_reply_to_user_id": "1637411501509160960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085072885098360873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ColdEcho_4sm https://t.co/LjtMTx7PRN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1521,
+        "media_key": "3_2085345117456760832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCiVfAbAAAjeYi.jpg",
+        "width": 1320
+      },
+      {
+        "duration_ms": 67900,
+        "height": 1024,
+        "media_key": "13_2085072482503999488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085072482503999488/img/c-52Fk2azpCfQ0Ue.jpg",
+        "public_metrics": {
+          "view_count": 1301809
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085072482503999488/vid/avc1/320x568/BFRngdr13hr04Lkl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085072482503999488/vid/avc1/480x852/wn6H8IGkKY41Ab2F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085072482503999488/vid/avc1/576x1024/R7bYkfEYO5QA-STz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085072482503999488/pl/SAdm5tsfw4a_LKP3.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085345117456760832"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2085072885098360873",
+        "created_at": "2026-08-06T12:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085345123563647200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1637411501509160960",
+              "start": 0,
+              "username": "ColdEcho_4sm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LjtMTx7PRN",
+              "end": 37,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2085345123563647200/photo/1",
+              "media_key": "3_2085345117456760832",
+              "start": 14,
+              "url": "https://t.co/LjtMTx7PRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085345123563647200",
+        "in_reply_to_user_id": "1637411501509160960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085072885098360873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColdEcho_4sm https://t.co/LjtMTx7PRN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085072482503999488"
+          ]
+        },
+        "author_id": "1637411501509160960",
+        "conversation_id": "2085072885098360873",
+        "created_at": "2026-08-05T18:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085072885098360873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCGV3mGtPt",
+              "end": 98,
+              "expanded_url": "https://x.com/ColdEcho_4sm/status/2085072885098360873/video/1",
+              "media_key": "13_2085072482503999488",
+              "start": 75,
+              "url": "https://t.co/VCGV3mGtPt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085072885098360873",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 721,
+          "impression_count": 2012655,
+          "like_count": 5534,
+          "quote_count": 21,
+          "reply_count": 101,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "This blackhead never stood a chance. Clean extraction. Clean satisfaction. https://t.co/VCGV3mGtPt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 61,
+          "like_count": 3010,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T11:11:58.000Z",
+        "description": "Life. Love. Betrayal. Healing. Growth.",
+        "id": "1637411501509160960",
+        "location": "Earth 🌏",
+        "name": "ColdEcho",
+        "pinned_tweet_id": "2079193902389555318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021927355548413956/nkcFyfJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6063,
+          "following_count": 2099,
+          "like_count": 19798,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 3127
+        },
+        "url": "",
+        "username": "ColdEcho_4sm",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2084692314178617612",
+    "created_at": "2026-08-04T17:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084692314178617612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084692314178617612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084658048254247258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2084692314178617612",
+        "created_at": "2026-08-04T17:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084692314178617612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084692314178617612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084658048254247258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2084658048254247258",
+        "created_at": "2026-08-04T15:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084658048254247258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084658048254247258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽\n嗑藥真他媽的爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 61,
+          "like_count": 2927,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

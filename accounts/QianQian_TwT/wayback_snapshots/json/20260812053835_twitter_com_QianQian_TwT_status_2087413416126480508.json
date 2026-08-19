@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2082501864873173273",
+    "created_at": "2026-08-12T05:38:35.000Z",
+    "display_text_range": [
+      9,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T06:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087413416126480508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2035025566018281472",
+          "start": 0,
+          "username": "wyy7711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087413416126480508",
+    "in_reply_to_user_id": "2035025566018281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082501864873173273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyy7711 我會一直陪著你的 你放心好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2082501864873173273",
+        "created_at": "2026-08-12T05:38:35.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087413416126480508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2035025566018281472",
+              "start": 0,
+              "username": "wyy7711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087413416126480508",
+        "in_reply_to_user_id": "2035025566018281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082501864873173273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyy7711 我會一直陪著你的 你放心好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035025566018281472",
+        "conversation_id": "2082501864873173273",
+        "created_at": "2026-07-29T16:21:50.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082501864873173273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082501864873173273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或許在未來的某一天會有人邊說著愛我邊和別的人上床\n也或許我會在遇到那種事情前死亡\n我希望在一切的結尾可以是某紅色蔬菜/水果跟清清陪我\n然後讓我以一個獵奇的方式告別"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087413416126480508",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073780355434483712/1783276015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2583,
+          "following_count": 66,
+          "like_count": 3810,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-20T16:09:41.000Z",
+        "description": "咕噜咕噜^我是南瓜/呱呱\n26年小嬰兒😭/小女男孩小男女孩/猴子/大海豹/小丑魚/喜歡你耶我是真的～～我是真的不能控制自我自己～\n從wx換到這裡發廢話好爽\n此人說話不會經過腦子",
+        "id": "2035025566018281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087365782988886143",
+        "name": "南呱呱呱",
+        "pinned_tweet_id": "2085398234860749245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035025566018281472/1777909372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051326649359323136/qkjT6Ne7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 53,
+          "like_count": 1743,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1048
+        },
+        "url": "",
+        "username": "wyy7711",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2073780355434483712",
+    "conversation_id": "2084289995335184538",
+    "created_at": "2026-08-03T16:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084313304588259597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2083477847797362688",
+          "start": 0,
+          "username": "adCa00414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084313304588259597",
+    "in_reply_to_user_id": "2083477847797362688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084289995335184538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adCa00414 操你媽笑死我了啥比"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5300,
+        "height": 1280,
+        "media_key": "13_2084289960480493570",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084289960480493570/img/dhbqhEv6uLRoD_HE.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084289960480493570/vid/avc1/320x568/tXz1TABYtJmiiZr8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084289960480493570/vid/avc1/480x852/Dd6Ir_GHz3lNuqAs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084289960480493570/vid/avc1/720x1280/QQUdDQlSsWgoUJOi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084289960480493570/pl/cZNb5ELkwTxna2BX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2084289995335184538",
+        "created_at": "2026-08-03T16:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084313304588259597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2083477847797362688",
+              "start": 0,
+              "username": "adCa00414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084313304588259597",
+        "in_reply_to_user_id": "2083477847797362688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084289995335184538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adCa00414 操你媽笑死我了啥比"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084289960480493570"
+          ]
+        },
+        "author_id": "2083477847797362688",
+        "conversation_id": "2084289995335184538",
+        "created_at": "2026-08-03T14:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084289995335184538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVblMBlLeN",
+              "end": 25,
+              "expanded_url": "https://x.com/adCa00414/status/2084289995335184538/video/1",
+              "media_key": "13_2084289960480493570",
+              "start": 2,
+              "url": "https://t.co/XVblMBlLeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084289995335184538",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。 https://t.co/XVblMBlLeN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 62,
+          "like_count": 2800,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T09:01:29.000Z",
+        "description": "前世@ANDEL0426\n我的狗狗@xxs0721 \n友跨｜性别不明｜烟鬼喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 25,
+                "start": 17,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "2083477847797362688",
+        "name": "ADniako喵",
+        "pinned_tweet_id": "2083479090116641073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083478390020149248/3ahRmuL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 61,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "adCa00414",
+        "verified": false
+      }
+    ]
+  }
+}
